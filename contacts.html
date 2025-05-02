@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css">
+    <link rel="stylesheet" href="https://unpkg.com/lenis@1.3.1/dist/lenis.css">
+    <link rel="stylesheet" href="css/style.css">
+
+    <title>MyRoom</title>
+</head>
+<body>
+
+    <header class="header">
+        <div class="container">
+            <div class="header__inner">
+                <a href="/index.html">
+                    <img src="../../images/logo.png" alt="MyRoom" class="logo">
+                </a>
+    
+                <nav>
+                    <ul>
+                        <li><a href="/">Главная</a></li>
+                        <li><a href="/about">О продукте</a></li>
+                        <li><a href="/tariffs">Тарифы</a></li>
+                        <li><a href="/blog">Блог</a></li>
+                        <li><a href="/contacts">Контакты</a></li>
+                    </ul>
+                </nav>
+    
+                <button class="try-popup-btn" data-popup-type="Поп-ап. Шапка сайта">
+                    <span>Попробовать</span>
+                    <svg width="33" height="16" viewBox="0 0 33 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M32.7125 8.28308C33.0988 7.88842 33.0929 7.25438 32.6993 6.86691L26.2855 0.552776C25.8919 0.165309 25.2597 0.171142 24.8734 0.565803C24.4871 0.960464 24.493 1.5945 24.8865 1.98197L30.5877 7.59453L24.9918 13.3113C24.6055 13.706 24.6114 14.34 25.0049 14.7275C25.3985 15.1149 26.0308 15.1091 26.4171 14.7145L32.7125 8.28308ZM0.631932 8.87234L32.0091 8.58289L31.9905 6.58012L0.613329 6.86957L0.631932 8.87234Z" fill="#232323"/>
+                    </svg>    
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <main class="main">
+
+
+        <section class="feedback__form">
+            <div class="container">
+                <div class="feedback__form-inner">
+                    <img src="../images/main/feedback-form-bg.png" alt="">
+                    <div class="feedback__form-text">
+                        <h2>Готовы улучшить свой отель?</h2>
+                        <p>Телефон: <a href="tel:+79787565865">+ 7 978 756 58 65</a></p>
+                        <p>Почта: <a href="mailto:itmyroom@mail.ru">itmyroom@mail.ru</a></p>
+                    </div>
+        
+                    <form action="">
+                        <input type="text" placeholder="Имя">
+                        <input type="tel" placeholder="Телефон">
+                        <input type="text" placeholder="Почта">
+                        <input type="text" placeholder="Количество номеров">
+                        <label class="form__policy">
+                            <label class="check-label">
+                                <span class="options__desc">
+                                </span>
+                                <input
+                                    type="checkbox"
+                                    name="checkbox"
+                                />
+                                <span
+                                    class="fakecheck"
+                                >
+                                    <svg
+                                        xmlns="http://www.w3.org/2000/svg"
+                                        xmlns:xlink="http://www.w3.org/1999/xlink"
+                                        viewBox="0 0 24 24"
+                                        width="18px"
+                                        height="18px"
+                                        id="checkmark"
+                                    >
+                                        <polyline
+                                            fill="none"
+                                            stroke="#fff"
+                                            stroke-width="3"
+                                            stroke-linecap="round"
+                                            stroke-linejoin="round"
+                                            stroke-miterlimit="10"
+                                            points=" 5,12 9,16 18,8"
+                                        />
+                                    </svg>
+                                </span>
+                            </label>
+                            <p>Даю согласие на <a href="">обработку персональных данных</a></p>
+                        </label>
+                        <button>Отправить</button>
+                    </form>
+                </div>
+            </div>
+        </section>
+
+
+        
+
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            
+            <div class="footer__inner">
+                <div class="footer__contacts">
+                    <div class="col">
+                        <span>ООО "Лэйзи Дэв"</span>
+                        <p>1249100015119<br>
+                            от 4 октября 2024 г.</p>
+                    </div>
+                    <div class="col">
+                        <span>Контакты</span>
+                        <a href="tel:+77777777777">+77777777777</a>
+                        <a href="mailto:info@itsmyroom.ru">info@itsmyroom.ru</a>
+                    </div>
+                </div>
+    
+                <div class="footer__nav">
+                    <nav>
+                        <ul>
+                            <li><a href="#">Главная</a></li>
+                            <li><a href="#">О продукте</a></li>
+                            <li><a href="#">Тарифы</a></li>
+                            <li><a href="#">Блог</a></li>
+                            <li><a href="#">Контакты</a></li>
+                        </ul>
+                    </nav>
+                    <strong><a href="">Разработано "Lazy Dev Studio"</a></strong>
+                </div>
+    
+                <div class="footer__support">
+                    <span>При поддержке:</span>
+                    <img src="../../images/fasie.svg" alt="">
+                </div>
+            </div>
+            <div class="footer__policy">
+                <a href="">Соглашение на обработку персональных данных</a>
+                <a href="">Политика конфеденциальности</a>
+            </div>
+        </div>
+    </footer>
+    
+    
+    <div class="overlay"></div>
+    
+    <section class="popup question-popup">
+        <div class="popup_close">
+            <svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M36 14L14 36M14 14L36 36" stroke="#252536" stroke-width="2" stroke-linecap="round"/>
+            </svg>
+        </div>
+        <h2>Задайте вопрос</h4>
+        <form action="">
+            <input type="text" placeholder="Имя">
+            <input type="tel" placeholder="Телефон">
+            <input type="text" placeholder="Почта">
+            <!-- <input type="text" placeholder="Количество номеров"> -->
+            <textarea name="" id="" rows="5" placeholder="Ваш вопрос"></textarea>
+        
+            <div class="form__policy">
+                <label class="check-label" for="question-popup-checkbox" >
+                    <span class="options__desc">
+                    </span>
+                    <input
+                        id="question-popup-checkbox"
+                        type="checkbox"
+                        name="checkbox"
+                    />
+                    <span
+                        class="fakecheck"
+                    >
+                        <svg
+                            xmlns="http://www.w3.org/2000/svg"
+                            xmlns:xlink="http://www.w3.org/1999/xlink"
+                            viewBox="0 0 24 24"
+                            width="18px"
+                            height="18px"
+                            id="checkmark"
+                        >
+                            <polyline
+                                fill="none"
+                                stroke="#fff"
+                                stroke-width="3"
+                                stroke-linecap="round"
+                                stroke-linejoin="round"
+                                stroke-miterlimit="10"
+                                points=" 5,12 9,16 18,8"
+                            />
+                        </svg>
+                    </span>
+                </label>
+                <p>Даю согласие на <a href="">обработку персональных данных</a></p>
+            </div>
+            <button>Отправить</button>
+        </form>
+    </section>
+    
+    
+    <section class="popup try-popup" data-popup-type>
+        <div class="popup_close">
+            <svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M36 14L14 36M14 14L36 36" stroke="#252536" stroke-width="2" stroke-linecap="round"/>
+            </svg>
+        </div>
+        <h2>Оставить заявку</h4>
+        <form action="">
+            <input type="text" placeholder="Имя" class="name">
+            <input type="tel" placeholder="Телефон" class="phone">
+            <input type="text" placeholder="Почта">
+            <input type="text" placeholder="Количество номеров">
+        
+            <label class="form__policy">
+                <label class="check-label">
+                    <span class="options__desc">
+                    </span>
+                    <input
+                        type="checkbox"
+                        name="checkbox"
+                    />
+                    <span
+                        class="fakecheck"
+                    >
+                        <svg
+                            xmlns="http://www.w3.org/2000/svg"
+                            xmlns:xlink="http://www.w3.org/1999/xlink"
+                            viewBox="0 0 24 24"
+                            width="18px"
+                            height="18px"
+                            id="checkmark"
+                        >
+                            <polyline
+                                fill="none"
+                                stroke="#fff"
+                                stroke-width="3"
+                                stroke-linecap="round"
+                                stroke-linejoin="round"
+                                stroke-miterlimit="10"
+                                points=" 5,12 9,16 18,8"
+                            />
+                        </svg>
+                    </span>
+                </label>
+                <p>Даю согласие на <a href="">обработку персональных данных</a></p>
+            </label>
+            <button>Отправить</button>
+        </form>
+    </section>
+    
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="https://rawgit.com/RobinHerbots/jquery.inputmask/3.x/dist/jquery.inputmask.bundle.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+    <script src="https://unpkg.com/lenis@1.3.1/dist/lenis.min.js"></script>
+    <script src="js/script.js"></script>
+</body>
+</html>
