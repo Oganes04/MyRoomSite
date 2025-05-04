@@ -1,4 +1,3 @@
-
 //=================== Маска номера телефона ============
 
 $('input[type="tel"]').inputmask({
@@ -53,6 +52,20 @@ let clientSwiper = new Swiper(".clientSwiper", {
     el: ".swiper-pagination",
     clickable: true,
   },
+
+  breakpoints: {
+    640: {
+      // При ширине ≥ 640px применяются настройки по умолчанию (уже указаны выше)
+    },
+    // При ширине < 640px
+    0: {
+      effect: 'slide',
+      centeredSlides: false,
+      coverflowEffect: null,
+      slidesPerView: 1,
+      spaceBetween: 16,
+    }
+  }
 });
 
 

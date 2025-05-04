@@ -868,7 +868,7 @@ form button:hover {
   margin-bottom: clamp(25.6641px, 4.0104166667vw, 77px);
 }
 
-.abount__inner {
+.about__inner {
   display: -webkit-box;
   display: -moz-box;
   display: -ms-flexbox;
@@ -878,7 +878,7 @@ form button:hover {
   gap: clamp(56.9943px, 8.90625vw, 171px);
 }
 
-.abount__inner > img {
+.about__inner > img {
   width: clamp(335.2998px, 52.3958333333vw, 1006px);
   height: clamp(233.31px, 36.4583333333vw, 700px);
 }
@@ -1842,863 +1842,863 @@ form button:hover {
 
 @media only screen and (max-width: 640px) {
   section {
-    margin-bottom: clamp(125px, 39.0625vw, 250px);
+    margin-bottom: clamp(205.125px, 64.1015625vw, 410.25px);
   }
 
   .section__header-row button {
-    padding: clamp(8px, 2.5vw, 16px) clamp(30px, 9.375vw, 60px) clamp(8px, 2.5vw, 16px) clamp(30px, 9.375vw, 60px);
+    padding: clamp(13.128px, 4.1025vw, 26.256px) clamp(49.23px, 15.384375vw, 98.46px) clamp(13.128px, 4.1025vw, 26.256px) clamp(49.23px, 15.384375vw, 98.46px);
   }
 
   .section__header-row button {
-    border-radius: clamp(40px, 12.5vw, 80px);
+    border-radius: clamp(65.64px, 20.5125vw, 131.28px);
   }
 
   .row_button {
-    width: clamp(170px, 53.125vw, 340px);
+    width: clamp(278.97px, 87.178125vw, 557.94px);
   }
 
   .row_button {
-    padding: clamp(2.5px, 0.78125vw, 5px) clamp(2.5px, 0.78125vw, 5px) clamp(2.5px, 0.78125vw, 5px) clamp(14.5px, 4.53125vw, 29px);
+    padding: clamp(4.1025px, 1.28203125vw, 8.205px) clamp(4.1025px, 1.28203125vw, 8.205px) clamp(4.1025px, 1.28203125vw, 8.205px) clamp(23.7945px, 7.43578125vw, 47.589px);
   }
 
   .row_button {
-    border-radius: clamp(25px, 7.8125vw, 50px);
+    border-radius: clamp(41.025px, 12.8203125vw, 82.05px);
   }
 
   .row_button-wrapper {
-    width: clamp(28px, 8.75vw, 56px);
+    width: clamp(45.948px, 14.35875vw, 91.896px);
   }
 
   .row_button-wrapper {
-    height: clamp(28px, 8.75vw, 56px);
+    height: clamp(45.948px, 14.35875vw, 91.896px);
   }
 
   .row_button-wrapper img {
-    width: clamp(12.5px, 3.90625vw, 25px);
+    width: clamp(20.5125px, 6.41015625vw, 41.025px);
   }
 
   .row_button-wrapper img {
-    height: clamp(12.5px, 3.90625vw, 25px);
+    height: clamp(20.5125px, 6.41015625vw, 41.025px);
   }
 
   form {
-    gap: clamp(20px, 6.25vw, 40px);
+    gap: clamp(32.82px, 10.25625vw, 65.64px);
   }
 
   form {
-    padding: clamp(30px, 9.375vw, 60px) clamp(30px, 9.375vw, 60px) clamp(30px, 9.375vw, 60px) clamp(30px, 9.375vw, 60px);
+    padding: clamp(49.23px, 15.384375vw, 98.46px) clamp(49.23px, 15.384375vw, 98.46px) clamp(49.23px, 15.384375vw, 98.46px) clamp(49.23px, 15.384375vw, 98.46px);
   }
 
   form {
-    width: clamp(385px, 120.3125vw, 770px);
+    width: clamp(631.785px, 197.4328125vw, 1263.57px);
   }
 
   form {
-    border-radius: clamp(25px, 7.8125vw, 50px);
+    border-radius: clamp(41.025px, 12.8203125vw, 82.05px);
   }
 
   input:not([type=checkbox]) {
-    border-radius: clamp(12.5px, 3.90625vw, 25px);
+    border-radius: clamp(20.5125px, 6.41015625vw, 41.025px);
   }
 
   input:not([type=checkbox]) {
-    padding: clamp(11px, 3.4375vw, 22px) clamp(15px, 4.6875vw, 30px) clamp(11px, 3.4375vw, 22px) clamp(15px, 4.6875vw, 30px);
+    padding: clamp(18.051px, 5.6409375vw, 36.102px) clamp(24.615px, 7.6921875vw, 49.23px) clamp(18.051px, 5.6409375vw, 36.102px) clamp(24.615px, 7.6921875vw, 49.23px);
   }
 
   input:not([type=checkbox]) {
-    line-height: clamp(12.5px, 3.90625vw, 25px);
+    line-height: clamp(20.5125px, 6.41015625vw, 41.025px);
   }
 
   textarea {
-    border-radius: clamp(12.5px, 3.90625vw, 25px);
+    border-radius: clamp(20.5125px, 6.41015625vw, 41.025px);
   }
 
   textarea {
-    padding: clamp(10px, 3.125vw, 20px) clamp(15px, 4.6875vw, 30px) clamp(10px, 3.125vw, 20px) clamp(15px, 4.6875vw, 30px);
+    padding: clamp(16.41px, 5.128125vw, 32.82px) clamp(24.615px, 7.6921875vw, 49.23px) clamp(16.41px, 5.128125vw, 32.82px) clamp(24.615px, 7.6921875vw, 49.23px);
   }
 
   textarea {
-    line-height: clamp(12.5px, 3.90625vw, 25px);
+    line-height: clamp(20.5125px, 6.41015625vw, 41.025px);
   }
 
   form button {
-    padding: clamp(11px, 3.4375vw, 22px) clamp(0px, 0vw, 0px) clamp(11px, 3.4375vw, 22px) clamp(0px, 0vw, 0px);
+    padding: clamp(18.051px, 5.6409375vw, 36.102px) clamp(0px, 0vw, 0px) clamp(18.051px, 5.6409375vw, 36.102px) clamp(0px, 0vw, 0px);
   }
 
   form button {
-    border-radius: clamp(30px, 9.375vw, 60px);
+    border-radius: clamp(49.23px, 15.384375vw, 98.46px);
   }
 
   .form__policy {
-    gap: clamp(5px, 1.5625vw, 10px);
+    gap: clamp(8.205px, 2.5640625vw, 16.41px);
   }
 
   .form__policy p {
-    line-height: clamp(12.5px, 3.90625vw, 25px);
+    line-height: clamp(20.5125px, 6.41015625vw, 41.025px);
   }
 
   .fakecheck {
-    width: clamp(10px, 3.125vw, 20px);
+    width: clamp(16.41px, 5.128125vw, 32.82px);
   }
 
   .fakecheck {
-    height: clamp(10px, 3.125vw, 20px);
+    height: clamp(16.41px, 5.128125vw, 32.82px);
   }
 
   .header {
-    margin-bottom: clamp(75px, 23.4375vw, 150px);
+    margin-bottom: clamp(123.075px, 38.4609375vw, 246.15px);
   }
 
   .header__inner {
-    padding: clamp(17.5px, 5.46875vw, 35px) clamp(0px, 0vw, 0px) clamp(17.5px, 5.46875vw, 35px) clamp(0px, 0vw, 0px);
+    padding: clamp(28.7175px, 8.97421875vw, 57.435px) clamp(0px, 0vw, 0px) clamp(28.7175px, 8.97421875vw, 57.435px) clamp(0px, 0vw, 0px);
   }
 
   .header__inner {
-    border-radius: clamp(0px, 0vw, 0px) clamp(0px, 0vw, 0px) clamp(15px, 4.6875vw, 30px) clamp(15px, 4.6875vw, 30px);
+    border-radius: clamp(0px, 0vw, 0px) clamp(0px, 0vw, 0px) clamp(24.615px, 7.6921875vw, 49.23px) clamp(24.615px, 7.6921875vw, 49.23px);
   }
 
   .header__inner > a > img {
-    width: clamp(57.5px, 17.96875vw, 115px);
+    width: clamp(94.3575px, 29.48671875vw, 188.715px);
   }
 
   .header__inner > a > img {
-    height: clamp(30px, 9.375vw, 60px);
+    height: clamp(49.23px, 15.384375vw, 98.46px);
   }
 
   .header__inner nav {
-    padding: clamp(9.5px, 2.96875vw, 19px) clamp(34px, 10.625vw, 68px) clamp(9.5px, 2.96875vw, 19px) clamp(34px, 10.625vw, 68px);
+    padding: clamp(15.5895px, 4.87171875vw, 31.179px) clamp(55.794px, 17.435625vw, 111.588px) clamp(15.5895px, 4.87171875vw, 31.179px) clamp(55.794px, 17.435625vw, 111.588px);
   }
 
   .header__inner nav {
-    border-radius: clamp(25px, 7.8125vw, 50px);
+    border-radius: clamp(41.025px, 12.8203125vw, 82.05px);
   }
 
   .header__inner nav ul {
-    gap: clamp(25px, 7.8125vw, 50px);
+    gap: clamp(41.025px, 12.8203125vw, 82.05px);
   }
 
   .header__inner button {
-    gap: clamp(6.5px, 2.03125vw, 13px);
+    gap: clamp(10.6665px, 3.33328125vw, 21.333px);
   }
 
   .header__inner button {
-    padding: clamp(9.5px, 2.96875vw, 19px) clamp(0px, 0vw, 0px) clamp(9.5px, 2.96875vw, 19px) clamp(23.5px, 7.34375vw, 47px);
+    padding: clamp(15.5895px, 4.87171875vw, 31.179px) clamp(0px, 0vw, 0px) clamp(15.5895px, 4.87171875vw, 31.179px) clamp(38.5635px, 12.05109375vw, 77.127px);
   }
 
   .header__inner button {
-    border-radius: clamp(21.5px, 6.71875vw, 43px) clamp(0px, 0vw, 0px) clamp(0px, 0vw, 0px) clamp(21.5px, 6.71875vw, 43px);
+    border-radius: clamp(35.2815px, 11.02546875vw, 70.563px) clamp(0px, 0vw, 0px) clamp(0px, 0vw, 0px) clamp(35.2815px, 11.02546875vw, 70.563px);
   }
 
   .header__inner button svg {
-    width: clamp(16.5px, 5.15625vw, 33px);
+    width: clamp(27.0765px, 8.46140625vw, 54.153px);
   }
 
   .header__inner button svg {
-    height: clamp(8px, 2.5vw, 16px);
+    height: clamp(13.128px, 4.1025vw, 26.256px);
   }
 
   .header__inner button::after {
-    right: clamp(-60px, -18.75vw, -120px);
+    right: clamp(-98.46px, -30.76875vw, -196.92px);
   }
 
   .header__inner button::after {
-    width: clamp(60px, 18.75vw, 120px);
+    width: clamp(98.46px, 30.76875vw, 196.92px);
   }
 
   .footer__support {
-    gap: clamp(10px, 3.125vw, 20px);
+    gap: clamp(16.41px, 5.128125vw, 32.82px);
   }
 
   .footer__support img {
-    width: clamp(75px, 23.4375vw, 150px);
+    width: clamp(123.075px, 38.4609375vw, 246.15px);
   }
 
   .footer__inner {
-    padding: clamp(30px, 9.375vw, 60px) clamp(0px, 0vw, 0px) clamp(20px, 6.25vw, 40px) clamp(0px, 0vw, 0px);
+    padding: clamp(49.23px, 15.384375vw, 98.46px) clamp(0px, 0vw, 0px) clamp(32.82px, 10.25625vw, 65.64px) clamp(0px, 0vw, 0px);
   }
 
   .footer__contacts {
-    gap: clamp(25px, 7.8125vw, 50px);
+    gap: clamp(41.025px, 12.8203125vw, 82.05px);
   }
 
   .footer__contacts .col:first-child span {
-    margin-bottom: clamp(2.5px, 0.78125vw, 5px);
+    margin-bottom: clamp(4.1025px, 1.28203125vw, 8.205px);
   }
 
   .footer__contacts .col:nth-child(2) span {
-    margin-bottom: clamp(2.5px, 0.78125vw, 5px);
+    margin-bottom: clamp(4.1025px, 1.28203125vw, 8.205px);
   }
 
   .footer__contacts .col:nth-child(2) a:first-child {
-    margin-bottom: clamp(2.5px, 0.78125vw, 5px);
+    margin-bottom: clamp(4.1025px, 1.28203125vw, 8.205px);
   }
 
   .footer__nav {
-    gap: clamp(10px, 3.125vw, 20px);
+    gap: clamp(16.41px, 5.128125vw, 32.82px);
   }
 
   .footer__nav nav ul {
-    gap: clamp(25px, 7.8125vw, 50px);
+    gap: clamp(41.025px, 12.8203125vw, 82.05px);
   }
 
   .footer__policy {
-    padding-bottom: clamp(20px, 6.25vw, 40px);
+    padding-bottom: clamp(32.82px, 10.25625vw, 65.64px);
   }
 
   .footer__policy {
-    gap: clamp(5px, 1.5625vw, 10px);
+    gap: clamp(8.205px, 2.5640625vw, 16.41px);
   }
 
   .popup {
-    border-radius: clamp(25px, 7.8125vw, 50px);
+    border-radius: clamp(41.025px, 12.8203125vw, 82.05px);
   }
 
   .popup .popup_close svg {
-    width: clamp(25px, 7.8125vw, 50px);
+    width: clamp(41.025px, 12.8203125vw, 82.05px);
   }
 
   .popup .popup_close svg {
-    height: clamp(25px, 7.8125vw, 50px);
+    height: clamp(41.025px, 12.8203125vw, 82.05px);
   }
 
   .popup .popup_close svg {
-    margin-right: clamp(15px, 4.6875vw, 30px);
+    margin-right: clamp(24.615px, 7.6921875vw, 49.23px);
   }
 
   .popup .popup_close svg {
-    margin-top: clamp(15px, 4.6875vw, 30px);
+    margin-top: clamp(24.615px, 7.6921875vw, 49.23px);
   }
 
   .offer__inner > img {
-    width: clamp(631.5px, 197.34375vw, 1263px);
+    width: clamp(1036.2915px, 323.84109375vw, 2072.583px);
   }
 
   .offer__inner > img {
-    height: clamp(369.5px, 115.46875vw, 739px);
+    height: clamp(606.3495px, 189.48421875vw, 1212.699px);
   }
 
   .offer__inner > img {
-    border-radius: clamp(30px, 9.375vw, 60px);
+    border-radius: clamp(49.23px, 15.384375vw, 98.46px);
   }
 
   .offer__card {
-    border-radius: clamp(15px, 4.6875vw, 30px);
+    border-radius: clamp(24.615px, 7.6921875vw, 49.23px);
   }
 
   .offer__card {
-    padding: clamp(22.5px, 7.03125vw, 45px) clamp(20px, 6.25vw, 40px) clamp(22.5px, 7.03125vw, 45px) clamp(20px, 6.25vw, 40px);
+    padding: clamp(36.9225px, 11.53828125vw, 73.845px) clamp(32.82px, 10.25625vw, 65.64px) clamp(36.9225px, 11.53828125vw, 73.845px) clamp(32.82px, 10.25625vw, 65.64px);
   }
 
   .offer__card {
-    width: clamp(310px, 96.875vw, 620px);
+    width: clamp(508.71px, 158.971875vw, 1017.42px);
   }
 
   .offer__card-header {
-    gap: clamp(1.5px, 0.46875vw, 3px);
+    gap: clamp(2.4615px, 0.76921875vw, 4.923px);
   }
 
   .offer__card-header {
-    margin-bottom: clamp(14px, 4.375vw, 28px);
+    margin-bottom: clamp(22.974px, 7.179375vw, 45.948px);
   }
 
   .offer__card-header img {
-    width: clamp(27.5px, 8.59375vw, 55px);
+    width: clamp(45.1275px, 14.10234375vw, 90.255px);
   }
 
   .offer__card-header img {
-    height: clamp(35.5px, 11.09375vw, 71px);
+    height: clamp(58.2555px, 18.20484375vw, 116.511px);
   }
 
   .offer__card p {
-    margin-bottom: clamp(38.5px, 12.03125vw, 77px);
+    margin-bottom: clamp(63.1785px, 19.74328125vw, 126.357px);
   }
 
-  .abount__inner {
-    gap: clamp(85.5px, 26.71875vw, 171px);
+  .about__inner {
+    gap: clamp(140.3055px, 43.84546875vw, 280.611px);
   }
 
-  .abount__inner > img {
-    width: clamp(503px, 157.1875vw, 1006px);
+  .about__inner > img {
+    width: clamp(825.423px, 257.9446875vw, 1650.846px);
   }
 
-  .abount__inner > img {
-    height: clamp(350px, 109.375vw, 700px);
+  .about__inner > img {
+    height: clamp(574.35px, 179.484375vw, 1148.7px);
   }
 
   .about__info h2 {
-    margin-bottom: clamp(30px, 9.375vw, 60px);
+    margin-bottom: clamp(49.23px, 15.384375vw, 98.46px);
   }
 
   .about__info p {
-    margin-bottom: clamp(26.5px, 8.28125vw, 53px);
+    margin-bottom: clamp(43.4865px, 13.58953125vw, 86.973px);
   }
 
   .about__info p:last-of-type {
-    margin-bottom: clamp(42.5px, 13.28125vw, 85px);
+    margin-bottom: clamp(69.7425px, 21.79453125vw, 139.485px);
   }
 
   .admin__panel-inner {
-    border-radius: clamp(30px, 9.375vw, 60px);
+    border-radius: clamp(49.23px, 15.384375vw, 98.46px);
   }
 
   .admin__panel-inner {
-    padding: clamp(30px, 9.375vw, 60px) clamp(42.5px, 13.28125vw, 85px) clamp(40px, 12.5vw, 80px) clamp(42.5px, 13.28125vw, 85px);
+    padding: clamp(49.23px, 15.384375vw, 98.46px) clamp(69.7425px, 21.79453125vw, 139.485px) clamp(65.64px, 20.5125vw, 131.28px) clamp(69.7425px, 21.79453125vw, 139.485px);
   }
 
   .admin__panel-inner > img {
-    width: clamp(405px, 126.5625vw, 810px);
+    width: clamp(664.605px, 207.6890625vw, 1329.21px);
   }
 
   .admin__panel-inner > img {
-    height: clamp(280px, 87.5vw, 560px);
+    height: clamp(459.48px, 143.5875vw, 918.96px);
   }
 
   .admin__panel-inner > img {
-    border-radius: clamp(15px, 4.6875vw, 30px);
+    border-radius: clamp(24.615px, 7.6921875vw, 49.23px);
   }
 
   .admin__panel-inner .admin__panel-info {
-    width: clamp(324px, 101.25vw, 648px);
+    width: clamp(531.684px, 166.15125vw, 1063.368px);
   }
 
   .admin__panel-inner .admin__panel-info h2 {
-    margin-bottom: clamp(24px, 7.5vw, 48px);
+    margin-bottom: clamp(39.384px, 12.3075vw, 78.768px);
   }
 
   .admin__panel-inner .admin__panel-info p:not(:last-child) {
-    margin-bottom: clamp(16px, 5vw, 32px);
+    margin-bottom: clamp(26.256px, 8.205vw, 52.512px);
   }
 
   .advantages__inner .section__header {
-    margin-bottom: clamp(22.5px, 7.03125vw, 45px);
+    margin-bottom: clamp(36.9225px, 11.53828125vw, 73.845px);
   }
 
   .advantages__inner .advantages__cards {
-    gap: clamp(15px, 4.6875vw, 30px);
+    gap: clamp(24.615px, 7.6921875vw, 49.23px);
   }
 
   .advantages__inner .advantages__card {
-    padding: clamp(15px, 4.6875vw, 30px) clamp(15px, 4.6875vw, 30px) clamp(15px, 4.6875vw, 30px) clamp(15px, 4.6875vw, 30px);
+    padding: clamp(24.615px, 7.6921875vw, 49.23px) clamp(24.615px, 7.6921875vw, 49.23px) clamp(24.615px, 7.6921875vw, 49.23px) clamp(24.615px, 7.6921875vw, 49.23px);
   }
 
   .advantages__inner .advantages__card {
-    border-radius: clamp(15px, 4.6875vw, 30px);
+    border-radius: clamp(24.615px, 7.6921875vw, 49.23px);
   }
 
   .advantages__inner .advantages__card {
-    height: clamp(200px, 62.5vw, 400px);
+    height: clamp(328.2px, 102.5625vw, 656.4px);
   }
 
   .advantages__inner .advantages__card h3 {
-    line-height: clamp(17.5px, 5.46875vw, 35px);
+    line-height: clamp(28.7175px, 8.97421875vw, 57.435px);
   }
 
   .advantages__inner .advantages__card h3 {
-    margin-bottom: clamp(20px, 6.25vw, 40px);
+    margin-bottom: clamp(32.82px, 10.25625vw, 65.64px);
   }
 
   .advantages__inner .advantages__card p {
-    line-height: clamp(15px, 4.6875vw, 30px);
+    line-height: clamp(24.615px, 7.6921875vw, 49.23px);
   }
 
   .advantages__inner .advantages__card p {
-    margin-bottom: clamp(10px, 3.125vw, 20px);
+    margin-bottom: clamp(16.41px, 5.128125vw, 32.82px);
   }
 
   .advantages__inner .advantages__card img {
-    width: clamp(70px, 21.875vw, 140px);
+    width: clamp(114.87px, 35.896875vw, 229.74px);
   }
 
   .advantages__inner .advantages__card img {
-    height: clamp(70px, 21.875vw, 140px);
+    height: clamp(114.87px, 35.896875vw, 229.74px);
   }
 
   .feedback__form-inner {
-    padding: clamp(27.5px, 8.59375vw, 55px) clamp(45px, 14.0625vw, 90px) clamp(27.5px, 8.59375vw, 55px) clamp(45px, 14.0625vw, 90px);
+    padding: clamp(45.1275px, 14.10234375vw, 90.255px) clamp(73.845px, 23.0765625vw, 147.69px) clamp(45.1275px, 14.10234375vw, 90.255px) clamp(73.845px, 23.0765625vw, 147.69px);
   }
 
   .feedback__form-inner {
-    border-radius: clamp(30px, 9.375vw, 60px);
+    border-radius: clamp(49.23px, 15.384375vw, 98.46px);
   }
 
   .feedback__form-inner > img {
-    border-radius: clamp(30px, 9.375vw, 60px);
+    border-radius: clamp(49.23px, 15.384375vw, 98.46px);
   }
 
   .feedback__form-inner .feedback__form-text {
-    width: clamp(313.5px, 97.96875vw, 627px);
+    width: clamp(514.4535px, 160.76671875vw, 1028.907px);
   }
 
   .feedback__form-inner .feedback__form-text h2 {
-    line-height: clamp(36px, 11.25vw, 72px);
+    line-height: clamp(59.076px, 18.46125vw, 118.152px);
   }
 
   .feedback__form-inner .feedback__form-text h2 {
-    margin-bottom: clamp(17.5px, 5.46875vw, 35px);
+    margin-bottom: clamp(28.7175px, 8.97421875vw, 57.435px);
   }
 
   .feedback__form-inner .feedback__form-text p {
-    line-height: clamp(17.5px, 5.46875vw, 35px);
+    line-height: clamp(28.7175px, 8.97421875vw, 57.435px);
   }
 
   .feedback__form-inner .feedback__form-text p:has(a) {
-    line-height: clamp(17.5px, 5.46875vw, 35px);
+    line-height: clamp(28.7175px, 8.97421875vw, 57.435px);
   }
 
   .tariffs__inner .section__header-row {
-    margin-bottom: clamp(35px, 10.9375vw, 70px);
+    margin-bottom: clamp(57.435px, 17.9484375vw, 114.87px);
   }
 
   .tariffs__inner .section__header-row {
-    gap: clamp(25px, 7.8125vw, 50px);
+    gap: clamp(41.025px, 12.8203125vw, 82.05px);
   }
 
   .tariffs__inner .tariffs__cards {
-    gap: clamp(22.5px, 7.03125vw, 45px);
+    gap: clamp(36.9225px, 11.53828125vw, 73.845px);
   }
 
   .tariffs__inner .tariffs__cards {
-    margin-bottom: clamp(25px, 7.8125vw, 50px);
+    margin-bottom: clamp(41.025px, 12.8203125vw, 82.05px);
   }
 
   .tariffs__inner .tariffs__cards li article {
-    border-radius: clamp(15px, 4.6875vw, 30px);
+    border-radius: clamp(24.615px, 7.6921875vw, 49.23px);
   }
 
   .tariffs__inner .tariffs__cards li article {
-    padding: clamp(20px, 6.25vw, 40px) clamp(15px, 4.6875vw, 30px) clamp(10px, 3.125vw, 20px) clamp(15px, 4.6875vw, 30px);
+    padding: clamp(32.82px, 10.25625vw, 65.64px) clamp(24.615px, 7.6921875vw, 49.23px) clamp(16.41px, 5.128125vw, 32.82px) clamp(24.615px, 7.6921875vw, 49.23px);
   }
 
   .tariffs__inner .tariffs__cards li article .tariffs__card-row {
-    margin-bottom: clamp(25px, 7.8125vw, 50px);
+    margin-bottom: clamp(41.025px, 12.8203125vw, 82.05px);
   }
 
   .tariffs__inner .tariffs__cards li article .tariffs__card-row svg {
-    width: clamp(40px, 12.5vw, 80px);
+    width: clamp(65.64px, 20.5125vw, 131.28px);
   }
 
   .tariffs__inner .tariffs__cards li article .tariffs__card-row svg {
-    height: clamp(40px, 12.5vw, 80px);
+    height: clamp(65.64px, 20.5125vw, 131.28px);
   }
 
   .tariffs__inner .tariffs__cards li article .tariffs__card-col span:first-child {
-    margin-bottom: clamp(6px, 1.875vw, 12px);
+    margin-bottom: clamp(9.846px, 3.076875vw, 19.692px);
   }
 
   .tariffs__inner .tariffs__cards li article .tariffs__card-col span:nth-child(2) {
-    margin-bottom: clamp(6px, 1.875vw, 12px);
+    margin-bottom: clamp(9.846px, 3.076875vw, 19.692px);
   }
 
   .tariffs__inner .tariffs__cards li article button {
-    padding: clamp(9px, 2.8125vw, 18px) clamp(0px, 0vw, 0px) clamp(9px, 2.8125vw, 18px) clamp(0px, 0vw, 0px);
+    padding: clamp(14.769px, 4.6153125vw, 29.538px) clamp(0px, 0vw, 0px) clamp(14.769px, 4.6153125vw, 29.538px) clamp(0px, 0vw, 0px);
   }
 
   .tariffs__inner .tariffs__cards li article button {
-    border-radius: clamp(16px, 5vw, 32px);
+    border-radius: clamp(26.256px, 8.205vw, 52.512px);
   }
 
   .tariffs__inner .tariffs__white-label {
-    padding: clamp(15px, 4.6875vw, 30px) clamp(45px, 14.0625vw, 90px) clamp(25px, 7.8125vw, 50px) clamp(45px, 14.0625vw, 90px);
+    padding: clamp(24.615px, 7.6921875vw, 49.23px) clamp(73.845px, 23.0765625vw, 147.69px) clamp(41.025px, 12.8203125vw, 82.05px) clamp(73.845px, 23.0765625vw, 147.69px);
   }
 
   .tariffs__inner .tariffs__white-label {
-    border-radius: clamp(15px, 4.6875vw, 30px);
+    border-radius: clamp(24.615px, 7.6921875vw, 49.23px);
   }
 
   .tariffs__inner .tariffs__white-label .col h3 {
-    margin-bottom: clamp(15px, 4.6875vw, 30px);
+    margin-bottom: clamp(24.615px, 7.6921875vw, 49.23px);
   }
 
   .tariffs__inner .tariffs__white-label .col p {
-    width: clamp(350px, 109.375vw, 700px);
+    width: clamp(574.35px, 179.484375vw, 1148.7px);
   }
 
   .tariffs__inner .tariffs__white-label .col p {
-    margin-bottom: clamp(20px, 6.25vw, 40px);
+    margin-bottom: clamp(32.82px, 10.25625vw, 65.64px);
   }
 
   .tariffs__inner .tariffs__white-label .row {
-    gap: clamp(25px, 7.8125vw, 50px);
+    gap: clamp(41.025px, 12.8203125vw, 82.05px);
   }
 
   .tariffs__inner .tariffs__white-label .row button {
-    height: clamp(30px, 9.375vw, 60px);
+    height: clamp(49.23px, 15.384375vw, 98.46px);
   }
 
   .tariffs__inner .tariffs__white-label .row button {
-    width: clamp(245px, 76.5625vw, 490px);
+    width: clamp(402.045px, 125.6390625vw, 804.09px);
   }
 
   .tariffs__inner .tariffs__white-label .row button {
-    border-radius: clamp(16px, 5vw, 32px);
+    border-radius: clamp(26.256px, 8.205vw, 52.512px);
   }
 
   .faq__inner .section__header-row {
-    margin-bottom: clamp(50px, 15.625vw, 100px);
+    margin-bottom: clamp(82.05px, 25.640625vw, 164.1px);
   }
 
   .faq__inner .faq__list {
-    gap: clamp(15px, 4.6875vw, 30px);
+    gap: clamp(24.615px, 7.6921875vw, 49.23px);
   }
 
   .faq__inner .faq__list li .faq__item-question {
-    padding-left: clamp(20px, 6.25vw, 40px);
+    padding-left: clamp(32.82px, 10.25625vw, 65.64px);
   }
 
   .faq__inner .faq__list li .faq__item-question {
-    border-radius: clamp(37.5px, 11.71875vw, 75px);
+    border-radius: clamp(61.5375px, 19.23046875vw, 123.075px);
   }
 
   .faq__inner .faq__list li .faq__item-question svg {
-    width: clamp(50px, 15.625vw, 100px);
+    width: clamp(82.05px, 25.640625vw, 164.1px);
   }
 
   .faq__inner .faq__list li .faq__item-question svg {
-    height: clamp(50px, 15.625vw, 100px);
+    height: clamp(82.05px, 25.640625vw, 164.1px);
   }
 
   .faq__inner .faq__list li .faq__item-answer {
-    padding: clamp(20px, 6.25vw, 40px) clamp(20px, 6.25vw, 40px) clamp(20px, 6.25vw, 40px) clamp(20px, 6.25vw, 40px);
+    padding: clamp(32.82px, 10.25625vw, 65.64px) clamp(32.82px, 10.25625vw, 65.64px) clamp(32.82px, 10.25625vw, 65.64px) clamp(32.82px, 10.25625vw, 65.64px);
   }
 
   .faq__inner .faq__list li .faq__item-answer {
-    margin-top: clamp(10px, 3.125vw, 20px);
+    margin-top: clamp(16.41px, 5.128125vw, 32.82px);
   }
 
   .faq__inner .faq__list li .faq__item-answer {
-    border-radius: clamp(15px, 4.6875vw, 30px);
+    border-radius: clamp(24.615px, 7.6921875vw, 49.23px);
   }
 
   .clients__inner h2.section__header {
-    margin-bottom: clamp(40px, 12.5vw, 80px);
+    margin-bottom: clamp(65.64px, 20.5125vw, 131.28px);
   }
 
   .clients__inner .clients__item {
-    width: clamp(195px, 60.9375vw, 390px);
+    width: clamp(319.995px, 99.9984375vw, 639.99px);
   }
 
   .clients__inner .clients__item {
-    height: clamp(375px, 117.1875vw, 750px);
+    height: clamp(615.375px, 192.3046875vw, 1230.75px);
   }
 
   .clients__inner .clients__item {
-    padding: clamp(15px, 4.6875vw, 30px) clamp(10px, 3.125vw, 20px) clamp(15px, 4.6875vw, 30px) clamp(10px, 3.125vw, 20px);
+    padding: clamp(24.615px, 7.6921875vw, 49.23px) clamp(16.41px, 5.128125vw, 32.82px) clamp(24.615px, 7.6921875vw, 49.23px) clamp(16.41px, 5.128125vw, 32.82px);
   }
 
   .clients__inner .clients__item > svg {
-    right: clamp(2.5px, 0.78125vw, 5px);
+    right: clamp(4.1025px, 1.28203125vw, 8.205px);
   }
 
   .clients__inner .clients__item > svg {
-    top: clamp(7.5px, 2.34375vw, 15px);
+    top: clamp(12.3075px, 3.84609375vw, 24.615px);
   }
 
   .clients__inner .clients__item > svg {
-    width: clamp(50px, 15.625vw, 100px);
+    width: clamp(82.05px, 25.640625vw, 164.1px);
   }
 
   .clients__inner .clients__item > svg {
-    height: clamp(50px, 15.625vw, 100px);
+    height: clamp(82.05px, 25.640625vw, 164.1px);
   }
 
   .clients__inner .clients__item-info {
-    padding: clamp(20px, 6.25vw, 40px) clamp(27.5px, 8.59375vw, 55px) clamp(20px, 6.25vw, 40px) clamp(10px, 3.125vw, 20px);
+    padding: clamp(32.82px, 10.25625vw, 65.64px) clamp(45.1275px, 14.10234375vw, 90.255px) clamp(32.82px, 10.25625vw, 65.64px) clamp(16.41px, 5.128125vw, 32.82px);
   }
 
   .clients__inner .clients__item-info {
-    border-radius: clamp(10px, 3.125vw, 20px);
+    border-radius: clamp(16.41px, 5.128125vw, 32.82px);
   }
 
   .clients__inner .clients__item-info h3 {
-    margin-bottom: clamp(4px, 1.25vw, 8px);
+    margin-bottom: clamp(6.564px, 2.05125vw, 13.128px);
   }
 
   .clients__inner .clients__item-stars {
-    gap: clamp(3.5px, 1.09375vw, 7px);
+    gap: clamp(5.7435px, 1.79484375vw, 11.487px);
   }
 
   .clients__inner .clients__item-stars {
-    margin-bottom: clamp(5px, 1.5625vw, 10px);
+    margin-bottom: clamp(8.205px, 2.5640625vw, 16.41px);
   }
 
   .clients__inner .clients__item-stars svg {
-    width: clamp(17.5px, 5.46875vw, 35px);
+    width: clamp(28.7175px, 8.97421875vw, 57.435px);
   }
 
   .clients__inner .clients__item-stars svg {
-    height: clamp(17.5px, 5.46875vw, 35px);
+    height: clamp(28.7175px, 8.97421875vw, 57.435px);
   }
 
   .clients__inner .clients__item-city {
-    gap: clamp(2.5px, 0.78125vw, 5px);
+    gap: clamp(4.1025px, 1.28203125vw, 8.205px);
   }
 
   .clients__inner .clients__item-city {
-    margin-bottom: clamp(10px, 3.125vw, 20px);
+    margin-bottom: clamp(16.41px, 5.128125vw, 32.82px);
   }
 
   .clients__inner .clients__item-city svg {
-    width: clamp(10px, 3.125vw, 20px);
+    width: clamp(16.41px, 5.128125vw, 32.82px);
   }
 
   .clients__inner .clients__item-city svg {
-    height: clamp(10px, 3.125vw, 20px);
+    height: clamp(16.41px, 5.128125vw, 32.82px);
   }
 
   .join__form {
-    margin-bottom: clamp(125px, 39.0625vw, 250px);
+    margin-bottom: clamp(205.125px, 64.1015625vw, 410.25px);
   }
 
   .join__form-inner .join__form-text h2 {
-    line-height: clamp(54.5px, 17.03125vw, 109px);
+    line-height: clamp(89.4345px, 27.94828125vw, 178.869px);
   }
 
   .join__form-inner .join__form-text h2 {
-    width: clamp(439px, 137.1875vw, 878px);
+    width: clamp(720.399px, 225.1246875vw, 1440.798px);
   }
 
   .join__form-inner .join__form-text h2 {
-    margin-bottom: clamp(32.5px, 10.15625vw, 65px);
+    margin-bottom: clamp(53.3325px, 16.66640625vw, 106.665px);
   }
 
   .join__form-inner .join__form-text p {
-    line-height: clamp(22.5px, 7.03125vw, 45px);
+    line-height: clamp(36.9225px, 11.53828125vw, 73.845px);
   }
 
   .join__form-inner .join__form-text p {
-    width: clamp(394.5px, 123.28125vw, 789px);
+    width: clamp(647.3745px, 202.30453125vw, 1294.749px);
   }
 
   .about__page .about__main-inner img {
-    height: clamp(546.5px, 170.78125vw, 1093px);
+    height: clamp(896.8065px, 280.25203125vw, 1793.613px);
   }
 
   .about__page .about__main-inner .marquee span {
-    padding: clamp(10px, 3.125vw, 20px) clamp(30px, 9.375vw, 60px) clamp(10px, 3.125vw, 20px) clamp(30px, 9.375vw, 60px);
+    padding: clamp(16.41px, 5.128125vw, 32.82px) clamp(49.23px, 15.384375vw, 98.46px) clamp(16.41px, 5.128125vw, 32.82px) clamp(49.23px, 15.384375vw, 98.46px);
   }
 
   .about__page .about__main-inner .marquee span {
-    border-radius: clamp(30px, 9.375vw, 60px);
+    border-radius: clamp(49.23px, 15.384375vw, 98.46px);
   }
 
   .about__page .about__main-inner .marquee span {
-    margin-right: clamp(10px, 3.125vw, 20px);
+    margin-right: clamp(16.41px, 5.128125vw, 32.82px);
   }
 
   .about__page .rolling__text {
-    bottom: clamp(-50px, -15.625vw, -100px);
+    bottom: clamp(-82.05px, -25.640625vw, -164.1px);
   }
 
   .about__page .about__info-inner > p {
-    line-height: clamp(20px, 6.25vw, 40px);
+    line-height: clamp(32.82px, 10.25625vw, 65.64px);
   }
 
   .about__page .about__info-inner > p {
-    margin-bottom: clamp(10px, 3.125vw, 20px);
+    margin-bottom: clamp(16.41px, 5.128125vw, 32.82px);
   }
 
   .about__page .about__info-inner > img {
-    margin-top: clamp(70px, 21.875vw, 140px);
+    margin-top: clamp(114.87px, 35.896875vw, 229.74px);
   }
 
   .about__page .about__info-inner > img {
-    margin-bottom: clamp(70px, 21.875vw, 140px);
+    margin-bottom: clamp(114.87px, 35.896875vw, 229.74px);
   }
 
   .about__page .about__info-cards {
-    margin-top: clamp(50px, 15.625vw, 100px);
+    margin-top: clamp(82.05px, 25.640625vw, 164.1px);
   }
 
   .about__page .about__info-cards .about__info-card {
-    width: clamp(275px, 85.9375vw, 550px);
+    width: clamp(451.275px, 141.0234375vw, 902.55px);
   }
 
   .about__page .about__info-cards .about__info-card {
-    height: clamp(375px, 117.1875vw, 750px);
+    height: clamp(615.375px, 192.3046875vw, 1230.75px);
   }
 
   .about__page .about__info-cards .about__info-card {
-    border-radius: clamp(20px, 6.25vw, 40px);
+    border-radius: clamp(32.82px, 10.25625vw, 65.64px);
   }
 
   .about__page .about__info-cards .about__info-card img {
-    width: clamp(275px, 85.9375vw, 550px);
+    width: clamp(451.275px, 141.0234375vw, 902.55px);
   }
 
   .about__page .about__info-cards .about__info-card img {
-    height: clamp(375px, 117.1875vw, 750px);
+    height: clamp(615.375px, 192.3046875vw, 1230.75px);
   }
 
   .about__page .about__info-cards .about__info-card img {
-    border-radius: clamp(20px, 6.25vw, 40px);
+    border-radius: clamp(32.82px, 10.25625vw, 65.64px);
   }
 
   .about__page .about__info-cards .about__info-card-text {
-    border-radius: clamp(0px, 0vw, 0px) clamp(0px, 0vw, 0px) clamp(20px, 6.25vw, 40px) clamp(20px, 6.25vw, 40px);
+    border-radius: clamp(0px, 0vw, 0px) clamp(0px, 0vw, 0px) clamp(32.82px, 10.25625vw, 65.64px) clamp(32.82px, 10.25625vw, 65.64px);
   }
 
   .about__page .about__info-cards .about__info-card-text {
-    padding: clamp(10px, 3.125vw, 20px) clamp(15px, 4.6875vw, 30px) clamp(15px, 4.6875vw, 30px) clamp(15px, 4.6875vw, 30px);
+    padding: clamp(16.41px, 5.128125vw, 32.82px) clamp(24.615px, 7.6921875vw, 49.23px) clamp(24.615px, 7.6921875vw, 49.23px) clamp(24.615px, 7.6921875vw, 49.23px);
   }
 
   .about__page .about__info-cards .about__info-card-text h3 {
-    margin-bottom: clamp(10px, 3.125vw, 20px);
+    margin-bottom: clamp(16.41px, 5.128125vw, 32.82px);
   }
 
   .about__page .about__info-cards .about__info-card-text button {
-    padding: clamp(8.5px, 2.65625vw, 17px) clamp(0px, 0vw, 0px) clamp(8.5px, 2.65625vw, 17px) clamp(0px, 0vw, 0px);
+    padding: clamp(13.9485px, 4.35890625vw, 27.897px) clamp(0px, 0vw, 0px) clamp(13.9485px, 4.35890625vw, 27.897px) clamp(0px, 0vw, 0px);
   }
 
   .about__page .about__info-cards .about__info-card-text button {
-    border-radius: clamp(30px, 9.375vw, 60px);
+    border-radius: clamp(49.23px, 15.384375vw, 98.46px);
   }
 
   .about__page .about__integration h2 {
-    margin-bottom: clamp(30px, 9.375vw, 60px);
+    margin-bottom: clamp(49.23px, 15.384375vw, 98.46px);
   }
 
   .about__page .about__integration .about__integration-steps {
-    gap: clamp(25px, 7.8125vw, 50px);
+    gap: clamp(41.025px, 12.8203125vw, 82.05px);
   }
 
   .about__page .about__integration .about__integration-steps {
-    margin-bottom: clamp(10px, 3.125vw, 20px);
+    margin-bottom: clamp(16.41px, 5.128125vw, 32.82px);
   }
 
   .about__page .about__integration .about__integration-steps .circle {
-    width: clamp(60px, 18.75vw, 120px);
+    width: clamp(98.46px, 30.76875vw, 196.92px);
   }
 
   .about__page .about__integration .about__integration-steps .circle {
-    height: clamp(60px, 18.75vw, 120px);
+    height: clamp(98.46px, 30.76875vw, 196.92px);
   }
 
   .about__page .about__integration .about__integration-text p {
-    line-height: clamp(20px, 6.25vw, 40px);
+    line-height: clamp(32.82px, 10.25625vw, 65.64px);
   }
 
   .tariffs__page h2.section__header {
-    margin-bottom: clamp(35px, 10.9375vw, 70px);
+    margin-bottom: clamp(57.435px, 17.9484375vw, 114.87px);
   }
 
   .tariffs__page .tariffs__inner .tariffs__cards {
-    margin-bottom: clamp(50px, 15.625vw, 100px);
+    margin-bottom: clamp(82.05px, 25.640625vw, 164.1px);
   }
 
   .tariffs__page .tariffs__inner .tariffs__cards:last-of-type {
-    margin-bottom: clamp(75px, 23.4375vw, 150px);
+    margin-bottom: clamp(123.075px, 38.4609375vw, 246.15px);
   }
 
   .articles__inner .section__header {
-    margin-bottom: clamp(35px, 10.9375vw, 70px);
+    margin-bottom: clamp(57.435px, 17.9484375vw, 114.87px);
   }
 
   .articles__inner ul {
-    gap: clamp(20px, 6.25vw, 40px);
+    gap: clamp(32.82px, 10.25625vw, 65.64px);
   }
 
   .articles__inner ul {
-    margin-bottom: clamp(100px, 31.25vw, 200px);
+    margin-bottom: clamp(164.1px, 51.28125vw, 328.2px);
   }
 
   .articles__inner article.article {
-    gap: clamp(20px, 6.25vw, 40px);
+    gap: clamp(32.82px, 10.25625vw, 65.64px);
   }
 
   .articles__inner article.article {
-    padding: clamp(20px, 6.25vw, 40px) clamp(20px, 6.25vw, 40px) clamp(20px, 6.25vw, 40px) clamp(20px, 6.25vw, 40px);
+    padding: clamp(32.82px, 10.25625vw, 65.64px) clamp(32.82px, 10.25625vw, 65.64px) clamp(32.82px, 10.25625vw, 65.64px) clamp(32.82px, 10.25625vw, 65.64px);
   }
 
   .articles__inner article.article {
-    border-radius: clamp(30px, 9.375vw, 60px);
+    border-radius: clamp(49.23px, 15.384375vw, 98.46px);
   }
 
   .articles__inner article.article > img {
-    width: clamp(315px, 98.4375vw, 630px);
+    width: clamp(516.915px, 161.5359375vw, 1033.83px);
   }
 
   .articles__inner article.article > img {
-    height: clamp(235px, 73.4375vw, 470px);
+    height: clamp(385.635px, 120.5109375vw, 771.27px);
   }
 
   .articles__inner article.article > img {
-    border-radius: clamp(10px, 3.125vw, 20px);
+    border-radius: clamp(16.41px, 5.128125vw, 32.82px);
   }
 
   .articles__inner article.article h2 {
-    line-height: clamp(17.5px, 5.46875vw, 35px);
+    line-height: clamp(28.7175px, 8.97421875vw, 57.435px);
   }
 
   .articles__inner article.article h2 {
-    margin-bottom: clamp(10px, 3.125vw, 20px);
+    margin-bottom: clamp(16.41px, 5.128125vw, 32.82px);
   }
 
   .articles__inner article.article p {
-    line-height: clamp(20px, 6.25vw, 40px);
+    line-height: clamp(32.82px, 10.25625vw, 65.64px);
   }
 
   .articles__inner article.article .article-row {
-    gap: clamp(10px, 3.125vw, 20px);
+    gap: clamp(16.41px, 5.128125vw, 32.82px);
   }
 
   .articles__inner article.article .article-row a {
-    padding: clamp(9px, 2.8125vw, 18px) clamp(82.5px, 25.78125vw, 165px) clamp(9px, 2.8125vw, 18px) clamp(82.5px, 25.78125vw, 165px);
+    padding: clamp(14.769px, 4.6153125vw, 29.538px) clamp(135.3825px, 42.30703125vw, 270.765px) clamp(14.769px, 4.6153125vw, 29.538px) clamp(135.3825px, 42.30703125vw, 270.765px);
   }
 
   .articles__inner article.article .article-row a {
-    border-radius: clamp(16px, 5vw, 32px);
+    border-radius: clamp(26.256px, 8.205vw, 52.512px);
   }
 
   .articles__inner article.article .article-row .article-date {
-    gap: clamp(5px, 1.5625vw, 10px);
+    gap: clamp(8.205px, 2.5640625vw, 16.41px);
   }
 
   .articles__inner article.article .article-row .article-date > img {
-    width: clamp(30px, 9.375vw, 60px);
+    width: clamp(49.23px, 15.384375vw, 98.46px);
   }
 
   .articles__inner article.article .article-row .article-date > img {
-    height: clamp(30px, 9.375vw, 60px);
+    height: clamp(49.23px, 15.384375vw, 98.46px);
   }
 
   .article__inner .article__header {
-    gap: clamp(20px, 6.25vw, 40px);
+    gap: clamp(32.82px, 10.25625vw, 65.64px);
   }
 
   .article__inner .article__header {
-    margin-bottom: clamp(35px, 10.9375vw, 70px);
+    margin-bottom: clamp(57.435px, 17.9484375vw, 114.87px);
   }
 
   .article__inner .article__header h1 {
-    line-height: clamp(22px, 6.875vw, 44px);
+    line-height: clamp(36.102px, 11.281875vw, 72.204px);
   }
 
   .article__inner .article__content img {
-    width: clamp(450px, 140.625vw, 900px);
+    width: clamp(738.45px, 230.765625vw, 1476.9px);
   }
 
   .article__inner .article__content img {
-    height: clamp(350px, 109.375vw, 700px);
+    height: clamp(574.35px, 179.484375vw, 1148.7px);
   }
 
   .article__inner .article__content img {
-    border-radius: clamp(30px, 9.375vw, 60px);
+    border-radius: clamp(49.23px, 15.384375vw, 98.46px);
   }
 
   .article__inner .article__content img {
-    margin-left: clamp(20px, 6.25vw, 40px);
+    margin-left: clamp(32.82px, 10.25625vw, 65.64px);
   }
 
   .article__inner .article__content img {
-    margin-bottom: clamp(20px, 6.25vw, 40px);
+    margin-bottom: clamp(32.82px, 10.25625vw, 65.64px);
   }
 
   .article__inner .article__content p {
-    line-height: clamp(20px, 6.25vw, 40px);
+    line-height: clamp(32.82px, 10.25625vw, 65.64px);
   }
 
   .article__inner .article__content p {
-    margin-bottom: clamp(10px, 3.125vw, 20px);
+    margin-bottom: clamp(16.41px, 5.128125vw, 32.82px);
   }
 
   header {
@@ -2706,10 +2706,6 @@ form button:hover {
   }
 
   footer {
-    display: none;
-  }
-
-  section:not(.offer):not(.about) {
     display: none;
   }
 
@@ -2721,52 +2717,146 @@ form button:hover {
   }
 
   .row_button {
-    font-size: clamp(7.9992px, 1.25vw, 24px);
+    font-size: clamp(5.9994px, 0.9375vw, 18px);
+    gap: clamp(9.3324px, 1.4583333333vw, 28px);
+    width: fit-content;
+    padding: clamp(1.6665px, 0.2604166667vw, 5px) clamp(1.6665px, 0.2604166667vw, 5px) clamp(1.6665px, 0.2604166667vw, 5px) clamp(6.666px, 1.0416666667vw, 20px);
   }
 
-  .offer .container {
-    padding: 0;
+  .row_button-wrapper {
+    width: clamp(13.332px, 2.0833333333vw, 40px);
+    height: clamp(13.332px, 2.0833333333vw, 40px);
+  }
+
+  .row_button-wrapper img {
+    width: clamp(5.3328px, 0.8333333333vw, 16px);
+    height: clamp(5.3328px, 0.8333333333vw, 16px);
+  }
+
+  h2.section__header {
+    font-size: clamp(9.999px, 1.5625vw, 30px);
+    margin-bottom: clamp(6.666px, 1.0416666667vw, 20px);
+  }
+
+  input:not([type=checkbox]) {
+    padding: clamp(1.3332px, 0.2083333333vw, 4px) clamp(9.999px, 1.5625vw, 30px) clamp(1.3332px, 0.2083333333vw, 4px) clamp(9.999px, 1.5625vw, 30px);
+    border-radius: clamp(8.3325px, 1.3020833333vw, 25px);
+    font-size: clamp(5.3328px, 0.8333333333vw, 16px);
+  }
+
+  .form__policy p {
+    font-size: clamp(3.9996px, 0.625vw, 12px);
+    line-height: normal;
+  }
+
+  .form__policy p a {
+    display: block;
+  }
+
+  .fakecheck {
+    width: clamp(6.666px, 1.0416666667vw, 20px);
+    height: clamp(6.666px, 1.0416666667vw, 20px);
+  }
+
+  section {
+    margin-bottom: clamp(26.664px, 4.1666666667vw, 80px);
+  }
+
+  .offer {
+    padding-top: clamp(26.664px, 4.1666666667vw, 80px);
   }
 
   .offer__inner {
+    flex-direction: column;
     align-items: flex-end;
   }
 
   .offer__inner > img {
     object-fit: cover;
+    position: relative;
+    width: 100%;
+    height: clamp(111.9888px, 17.5vw, 336px);
+    border-radius: clamp(6.666px, 1.0416666667vw, 20px);
   }
 
   .offer__card {
-    width: 100%;
+    width: fit-content;
+    position: relative;
+    margin-bottom: clamp(11.3322px, 1.7708333333vw, 34px);
+    padding: clamp(6.666px, 1.0416666667vw, 20px) clamp(1.9998px, 0.3125vw, 6px) clamp(6.666px, 1.0416666667vw, 20px) clamp(1.9998px, 0.3125vw, 6px);
+    border-radius: clamp(6.666px, 1.0416666667vw, 20px);
+  }
+
+  .offer__card-header {
+    margin-bottom: clamp(6.666px, 1.0416666667vw, 20px);
+  }
+
+  .offer__card-header img {
+    width: clamp(9.6657px, 1.5104166667vw, 29px);
+    height: clamp(12.3321px, 1.9270833333vw, 37px);
   }
 
   .offer__card h1 {
-    font-size: clamp(15.9984px, 2.5vw, 48px);
+    font-size: clamp(9.999px, 1.5625vw, 30px);
   }
 
   .offer__card p {
-    font-size: clamp(7.9992px, 1.25vw, 24px);
-    margin-bottom: clamp(9.999px, 1.5625vw, 30px);
+    font-size: clamp(5.9994px, 0.9375vw, 18px);
+    margin-bottom: clamp(6.666px, 1.0416666667vw, 20px);
   }
 
-  .abount__inner {
+  .about__inner {
     flex-direction: column;
+    gap: clamp(13.332px, 2.0833333333vw, 40px);
   }
 
-  .abount__inner > img {
+  .about__inner > img {
     object-fit: cover;
+    height: clamp(82.9917px, 12.96875vw, 249px);
+    border-radius: clamp(6.666px, 1.0416666667vw, 20px);
+  }
+
+  .about__info p {
+    font-size: clamp(5.3328px, 0.8333333333vw, 16px);
+    margin-bottom: 0;
+  }
+
+  .about__info p:not(:last-child) {
+    margin-bottom: clamp(3.333px, 0.5208333333vw, 10px);
+  }
+
+  .about__info p:last-of-type {
+    margin-bottom: clamp(13.332px, 2.0833333333vw, 40px);
   }
 
   .admin__panel-inner {
     flex-direction: column;
+    padding: clamp(9.999px, 1.5625vw, 30px) clamp(6.666px, 1.0416666667vw, 20px) clamp(13.332px, 2.0833333333vw, 40px) clamp(6.666px, 1.0416666667vw, 20px);
+    gap: clamp(16.665px, 2.6041666667vw, 50px);
+    border-radius: clamp(6.666px, 1.0416666667vw, 20px);
   }
 
   .admin__panel-inner > img {
     object-fit: cover;
+    height: clamp(69.3264px, 10.8333333333vw, 208px);
+    width: 100%;
+    border-radius: 0;
   }
 
   .admin__panel-inner .admin__panel-info {
     width: 100%;
+  }
+
+  .admin__panel-inner .admin__panel-info h2 {
+    margin-bottom: clamp(6.666px, 1.0416666667vw, 20px);
+  }
+
+  .admin__panel-inner .admin__panel-info p:not(:last-child) {
+    margin-bottom: clamp(3.333px, 0.5208333333vw, 10px);
+  }
+
+  .advantages__inner .section__header {
+    margin-bottom: clamp(6.666px, 1.0416666667vw, 20px);
   }
 
   .advantages__inner .advantages__cards {
@@ -2776,39 +2866,742 @@ form button:hover {
     display: -webkit-flex;
     display: flex;
     flex-direction: column;
+    gap: clamp(6.666px, 1.0416666667vw, 20px);
+  }
+
+  .advantages__inner .advantages__card {
+    height: auto;
+    padding: clamp(6.666px, 1.0416666667vw, 20px) clamp(6.666px, 1.0416666667vw, 20px) clamp(6.666px, 1.0416666667vw, 20px) clamp(6.666px, 1.0416666667vw, 20px);
+    padding-bottom: clamp(23.331px, 3.6458333333vw, 70px);
+    border-radius: clamp(6.666px, 1.0416666667vw, 20px);
+  }
+
+  .advantages__inner .advantages__card h3 {
+    font-size: clamp(8.6658px, 1.3541666667vw, 26px);
+    margin-bottom: clamp(6.666px, 1.0416666667vw, 20px);
+  }
+
+  .advantages__inner .advantages__card p {
+    font-size: clamp(5.3328px, 0.8333333333vw, 16px);
+    margin-bottom: clamp(3.333px, 0.5208333333vw, 10px);
+    max-width: 100%;
+  }
+
+  .advantages__inner .advantages__card img {
+    width: clamp(26.664px, 4.1666666667vw, 80px);
+    height: clamp(26.664px, 4.1666666667vw, 80px);
+  }
+
+  .feedback__form .container {
+    padding: 0;
   }
 
   .feedback__form-inner {
     flex-direction: column;
+    padding: clamp(16.665px, 2.6041666667vw, 50px) clamp(5.3328px, 0.8333333333vw, 16px) clamp(16.665px, 2.6041666667vw, 50px) clamp(5.3328px, 0.8333333333vw, 16px);
+  }
+
+  .feedback__form-inner img {
+    border-radius: clamp(6.666px, 1.0416666667vw, 20px);
+    border-radius: 0 !important;
   }
 
   .feedback__form-inner form {
     width: 100%;
+    padding: clamp(9.3324px, 1.4583333333vw, 28px) clamp(9.3324px, 1.4583333333vw, 28px) clamp(9.3324px, 1.4583333333vw, 28px) clamp(9.3324px, 1.4583333333vw, 28px);
+    border-radius: clamp(6.666px, 1.0416666667vw, 20px);
+    gap: clamp(6.666px, 1.0416666667vw, 20px);
+  }
+
+  .feedback__form-inner form button {
+    font-size: clamp(6.666px, 1.0416666667vw, 20px);
+    padding: clamp(1.6665px, 0.2604166667vw, 5px) clamp(0px, 0vw, 0px) clamp(1.6665px, 0.2604166667vw, 5px) clamp(0px, 0vw, 0px);
+    border-radius: clamp(19.3314px, 3.0208333333vw, 58px);
   }
 
   .feedback__form-inner .feedback__form-text {
     width: 100%;
+    margin-bottom: clamp(13.332px, 2.0833333333vw, 40px);
+  }
+
+  .feedback__form-inner .feedback__form-text h2 {
+    font-size: clamp(9.999px, 1.5625vw, 30px);
+    line-height: normal;
+    margin-bottom: clamp(6.666px, 1.0416666667vw, 20px);
+  }
+
+  .feedback__form-inner .feedback__form-text p {
+    font-size: clamp(5.3328px, 0.8333333333vw, 16px);
+    line-height: normal;
+  }
+
+  .tariffs__inner .section__header-row {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: clamp(9.999px, 1.5625vw, 30px);
+    margin-bottom: clamp(16.665px, 2.6041666667vw, 50px);
+  }
+
+  .tariffs__inner .section__header-row h2 {
+    margin-bottom: 0;
+  }
+
+  .tariffs__inner .tariffs__cards {
+    grid-template-columns: 1fr;
+  }
+
+  .tariffs__inner .tariffs__cards li article {
+    padding: clamp(6.666px, 1.0416666667vw, 20px) clamp(3.333px, 0.5208333333vw, 10px) clamp(4.3329px, 0.6770833333vw, 13px) clamp(3.333px, 0.5208333333vw, 10px);
+    border-radius: clamp(6.666px, 1.0416666667vw, 20px);
+  }
+
+  .tariffs__inner .tariffs__cards li article .tariffs__card-row {
+    margin-bottom: clamp(6.666px, 1.0416666667vw, 20px);
+  }
+
+  .tariffs__inner .tariffs__cards li article .tariffs__card-row svg {
+    width: clamp(13.332px, 2.0833333333vw, 40px);
+    height: clamp(13.332px, 2.0833333333vw, 40px);
+  }
+
+  .tariffs__inner .tariffs__cards li article .tariffs__card-col span:first-child {
+    font-size: clamp(8.6658px, 1.3541666667vw, 26px);
+    margin-bottom: 0;
+  }
+
+  .tariffs__inner .tariffs__cards li article .tariffs__card-col span:last-child {
+    font-size: clamp(5.9994px, 0.9375vw, 18px);
+  }
+
+  .tariffs__inner .tariffs__cards li article button {
+    padding: clamp(2.6664px, 0.4166666667vw, 8px) clamp(0px, 0vw, 0px) clamp(2.6664px, 0.4166666667vw, 8px) clamp(0px, 0vw, 0px);
+    font-size: clamp(6.666px, 1.0416666667vw, 20px);
+  }
+
+  .tariffs__inner .tariffs__white-label {
+    flex-direction: column;
+    padding: clamp(13.332px, 2.0833333333vw, 40px) clamp(3.333px, 0.5208333333vw, 10px) clamp(13.332px, 2.0833333333vw, 40px) clamp(3.333px, 0.5208333333vw, 10px);
+    position: relative;
+  }
+
+  .tariffs__inner .tariffs__white-label .col h3 {
+    font-size: clamp(13.332px, 2.0833333333vw, 40px);
+    margin-bottom: clamp(6.666px, 1.0416666667vw, 20px);
+  }
+
+  .tariffs__inner .tariffs__white-label .col p {
+    width: 100%;
+    font-size: clamp(6.666px, 1.0416666667vw, 20px);
+    margin-bottom: clamp(9.999px, 1.5625vw, 30px);
+  }
+
+  .tariffs__inner .tariffs__white-label .row {
+    flex-direction: column-reverse;
+    gap: clamp(64.9935px, 10.15625vw, 195px);
+    align-items: flex-start;
+  }
+
+  .tariffs__inner .tariffs__white-label .row span {
+    font-size: clamp(9.999px, 1.5625vw, 30px);
+    font-weight: 700;
+  }
+
+  .tariffs__inner .tariffs__white-label .row button {
+    width: 100%;
+    padding: clamp(2.6664px, 0.4166666667vw, 8px) clamp(0px, 0vw, 0px) clamp(2.6664px, 0.4166666667vw, 8px) clamp(0px, 0vw, 0px);
+    font-size: clamp(6.666px, 1.0416666667vw, 20px);
+    height: auto;
+  }
+
+  .tariffs__inner .tariffs__white-label svg {
+    width: clamp(65.3268px, 10.2083333333vw, 196px);
+    height: clamp(54.9945px, 8.59375vw, 165px);
+    object-fit: cover;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, 0);
+    -moz-transform: translate(-50%, 0);
+    -ms-transform: translate(-50%, 0);
+    -webkit-transform: translate(-50%, 0);
+    -o-transform: translate(-50%, 0);
+    transform: translate(-50%, 0);
+    bottom: clamp(82.05px, 25.640625vw, 164.1px) !important;
+  }
+
+  .faq__inner .section__header-row {
+    flex-direction: column;
+    align-items: flex-start;
+    margin-bottom: clamp(9.999px, 1.5625vw, 30px);
+  }
+
+  .faq__inner .section__header-row button {
+    font-size: clamp(7.9992px, 1.25vw, 24px);
+  }
+
+  .faq__inner .faq__list {
+    gap: clamp(6.666px, 1.0416666667vw, 20px);
+  }
+
+  .faq__inner .faq__list li .faq__item-question {
+    padding-left: clamp(6.666px, 1.0416666667vw, 20px);
+    font-size: clamp(5.3328px, 0.8333333333vw, 16px);
+  }
+
+  .faq__inner .faq__list li .faq__item-question svg {
+    width: clamp(19.998px, 3.125vw, 60px);
+    height: clamp(19.998px, 3.125vw, 60px);
+    flex: none;
+  }
+
+  .faq__inner .faq__list li .faq__item-answer {
+    padding: clamp(6.666px, 1.0416666667vw, 20px) clamp(6.666px, 1.0416666667vw, 20px) clamp(6.666px, 1.0416666667vw, 20px) clamp(6.666px, 1.0416666667vw, 20px);
+    border-radius: clamp(6.666px, 1.0416666667vw, 20px);
+    font-size: clamp(5.3328px, 0.8333333333vw, 16px);
+    margin-top: clamp(6.666px, 1.0416666667vw, 20px);
+  }
+
+  .clients__inner .clients__item {
+    height: clamp(249.975px, 39.0625vw, 750px);
+    padding: clamp(9.999px, 1.5625vw, 30px) clamp(1.3332px, 0.2083333333vw, 4px) clamp(9.999px, 1.5625vw, 30px) clamp(1.3332px, 0.2083333333vw, 4px);
+  }
+
+  .clients__inner .clients__item > svg {
+    display: none;
+  }
+
+  .clients__inner .clients__item > img {
+    object-fit: cover;
+  }
+
+  .clients__inner .clients__item-info {
+    padding: clamp(13.332px, 2.0833333333vw, 40px) clamp(6.666px, 1.0416666667vw, 20px) clamp(13.332px, 2.0833333333vw, 40px) clamp(6.666px, 1.0416666667vw, 20px);
+  }
+
+  .clients__inner .clients__item-info h3 {
+    font-size: clamp(13.332px, 2.0833333333vw, 40px);
+    margin-bottom: clamp(2.6664px, 0.4166666667vw, 8px);
+  }
+
+  .clients__inner .clients__item-info > p {
+    font-size: clamp(5.9994px, 0.9375vw, 18px);
+  }
+
+  .clients__inner .clients__item-stars svg {
+    width: clamp(11.6655px, 1.8229166667vw, 35px);
+    height: clamp(11.6655px, 1.8229166667vw, 35px);
+  }
+
+  .clients__inner .clients__item-city {
+    font-size: clamp(6.666px, 1.0416666667vw, 20px);
+    margin-bottom: clamp(6.666px, 1.0416666667vw, 20px);
+  }
+
+  .clients__inner .clients__item-city svg {
+    width: clamp(6.666px, 1.0416666667vw, 20px);
+    height: clamp(6.666px, 1.0416666667vw, 20px);
+  }
+
+  .join__form-inner {
+    flex-direction: column;
+  }
+
+  .join__form-inner .join__form-text h2 {
+    width: 100%;
+    line-height: normal;
+    font-size: clamp(9.999px, 1.5625vw, 30px);
+    margin-bottom: clamp(3.333px, 0.5208333333vw, 10px);
+  }
+
+  .join__form-inner .join__form-text p {
+    width: 100%;
+    font-size: clamp(5.3328px, 0.8333333333vw, 16px);
+    line-height: normal;
+    margin-bottom: clamp(9.999px, 1.5625vw, 30px);
+  }
+
+  .join__form form {
+    width: 100%;
+    padding: clamp(9.3324px, 1.4583333333vw, 28px) clamp(9.3324px, 1.4583333333vw, 28px) clamp(9.3324px, 1.4583333333vw, 28px) clamp(9.3324px, 1.4583333333vw, 28px);
+    border-radius: clamp(6.666px, 1.0416666667vw, 20px);
+    gap: clamp(6.666px, 1.0416666667vw, 20px);
+  }
+
+  .join__form form button {
+    padding: clamp(1.3332px, 0.2083333333vw, 4px) clamp(0px, 0vw, 0px) clamp(1.3332px, 0.2083333333vw, 4px) clamp(0px, 0vw, 0px);
+    font-size: clamp(6.666px, 1.0416666667vw, 20px);
   }
 }
 
 @media only screen and (max-width: 640px) and (max-width: 640px) {
   .container {
-    padding: clamp(0px, 0vw, 0px) clamp(8px, 2.5vw, 16px) clamp(0px, 0vw, 0px) clamp(8px, 2.5vw, 16px);
+    padding: clamp(0px, 0vw, 0px) clamp(13.128px, 4.1025vw, 26.256px) clamp(0px, 0vw, 0px) clamp(13.128px, 4.1025vw, 26.256px);
   }
 
   .row_button {
-    font-size: clamp(12px, 3.75vw, 24px);
+    font-size: clamp(14.769px, 4.6153125vw, 29.538px);
+  }
+
+  .row_button {
+    gap: clamp(22.974px, 7.179375vw, 45.948px);
+  }
+
+  .row_button {
+    padding: clamp(4.1025px, 1.28203125vw, 8.205px) clamp(4.1025px, 1.28203125vw, 8.205px) clamp(4.1025px, 1.28203125vw, 8.205px) clamp(16.41px, 5.128125vw, 32.82px);
+  }
+
+  .row_button-wrapper {
+    width: clamp(32.82px, 10.25625vw, 65.64px);
+  }
+
+  .row_button-wrapper {
+    height: clamp(32.82px, 10.25625vw, 65.64px);
+  }
+
+  .row_button-wrapper img {
+    width: clamp(13.128px, 4.1025vw, 26.256px);
+  }
+
+  .row_button-wrapper img {
+    height: clamp(13.128px, 4.1025vw, 26.256px);
+  }
+
+  h2.section__header {
+    font-size: clamp(24.615px, 7.6921875vw, 49.23px);
+  }
+
+  h2.section__header {
+    margin-bottom: clamp(16.41px, 5.128125vw, 32.82px);
+  }
+
+  input:not([type=checkbox]) {
+    padding: clamp(3.282px, 1.025625vw, 6.564px) clamp(24.615px, 7.6921875vw, 49.23px) clamp(3.282px, 1.025625vw, 6.564px) clamp(24.615px, 7.6921875vw, 49.23px);
+  }
+
+  input:not([type=checkbox]) {
+    border-radius: clamp(20.5125px, 6.41015625vw, 41.025px);
+  }
+
+  input:not([type=checkbox]) {
+    font-size: clamp(13.128px, 4.1025vw, 26.256px);
+  }
+
+  .form__policy p {
+    font-size: clamp(9.846px, 3.076875vw, 19.692px);
+  }
+
+  .fakecheck {
+    width: clamp(16.41px, 5.128125vw, 32.82px);
+  }
+
+  .fakecheck {
+    height: clamp(16.41px, 5.128125vw, 32.82px);
+  }
+
+  section {
+    margin-bottom: clamp(65.64px, 20.5125vw, 131.28px);
+  }
+
+  .offer {
+    padding-top: clamp(65.64px, 20.5125vw, 131.28px);
+  }
+
+  .offer__inner > img {
+    height: clamp(275.688px, 86.1525vw, 551.376px);
+  }
+
+  .offer__inner > img {
+    border-radius: clamp(16.41px, 5.128125vw, 32.82px);
+  }
+
+  .offer__card {
+    margin-bottom: clamp(27.897px, 8.7178125vw, 55.794px);
+  }
+
+  .offer__card {
+    padding: clamp(16.41px, 5.128125vw, 32.82px) clamp(4.923px, 1.5384375vw, 9.846px) clamp(16.41px, 5.128125vw, 32.82px) clamp(4.923px, 1.5384375vw, 9.846px);
+  }
+
+  .offer__card {
+    border-radius: clamp(16.41px, 5.128125vw, 32.82px);
+  }
+
+  .offer__card-header {
+    margin-bottom: clamp(16.41px, 5.128125vw, 32.82px);
+  }
+
+  .offer__card-header img {
+    width: clamp(23.7945px, 7.43578125vw, 47.589px);
+  }
+
+  .offer__card-header img {
+    height: clamp(30.3585px, 9.48703125vw, 60.717px);
   }
 
   .offer__card h1 {
-    font-size: clamp(24px, 7.5vw, 48px);
+    font-size: clamp(24.615px, 7.6921875vw, 49.23px);
   }
 
   .offer__card p {
-    font-size: clamp(12px, 3.75vw, 24px);
+    font-size: clamp(14.769px, 4.6153125vw, 29.538px);
   }
 
   .offer__card p {
-    margin-bottom: clamp(15px, 4.6875vw, 30px);
+    margin-bottom: clamp(16.41px, 5.128125vw, 32.82px);
+  }
+
+  .about__inner {
+    gap: clamp(32.82px, 10.25625vw, 65.64px);
+  }
+
+  .about__inner > img {
+    height: clamp(204.3045px, 63.84515625vw, 408.609px);
+  }
+
+  .about__inner > img {
+    border-radius: clamp(16.41px, 5.128125vw, 32.82px);
+  }
+
+  .about__info p {
+    font-size: clamp(13.128px, 4.1025vw, 26.256px);
+  }
+
+  .about__info p:not(:last-child) {
+    margin-bottom: clamp(8.205px, 2.5640625vw, 16.41px);
+  }
+
+  .about__info p:last-of-type {
+    margin-bottom: clamp(32.82px, 10.25625vw, 65.64px);
+  }
+
+  .admin__panel-inner {
+    padding: clamp(24.615px, 7.6921875vw, 49.23px) clamp(16.41px, 5.128125vw, 32.82px) clamp(32.82px, 10.25625vw, 65.64px) clamp(16.41px, 5.128125vw, 32.82px);
+  }
+
+  .admin__panel-inner {
+    gap: clamp(41.025px, 12.8203125vw, 82.05px);
+  }
+
+  .admin__panel-inner {
+    border-radius: clamp(16.41px, 5.128125vw, 32.82px);
+  }
+
+  .admin__panel-inner > img {
+    height: clamp(170.664px, 53.3325vw, 341.328px);
+  }
+
+  .admin__panel-inner .admin__panel-info h2 {
+    margin-bottom: clamp(16.41px, 5.128125vw, 32.82px);
+  }
+
+  .admin__panel-inner .admin__panel-info p:not(:last-child) {
+    margin-bottom: clamp(8.205px, 2.5640625vw, 16.41px);
+  }
+
+  .advantages__inner .section__header {
+    margin-bottom: clamp(16.41px, 5.128125vw, 32.82px);
+  }
+
+  .advantages__inner .advantages__cards {
+    gap: clamp(16.41px, 5.128125vw, 32.82px);
+  }
+
+  .advantages__inner .advantages__card {
+    padding: clamp(16.41px, 5.128125vw, 32.82px) clamp(16.41px, 5.128125vw, 32.82px) clamp(16.41px, 5.128125vw, 32.82px) clamp(16.41px, 5.128125vw, 32.82px);
+  }
+
+  .advantages__inner .advantages__card {
+    padding-bottom: clamp(57.435px, 17.9484375vw, 114.87px);
+  }
+
+  .advantages__inner .advantages__card {
+    border-radius: clamp(16.41px, 5.128125vw, 32.82px);
+  }
+
+  .advantages__inner .advantages__card h3 {
+    font-size: clamp(21.333px, 6.6665625vw, 42.666px);
+  }
+
+  .advantages__inner .advantages__card h3 {
+    margin-bottom: clamp(16.41px, 5.128125vw, 32.82px);
+  }
+
+  .advantages__inner .advantages__card p {
+    font-size: clamp(13.128px, 4.1025vw, 26.256px);
+  }
+
+  .advantages__inner .advantages__card p {
+    margin-bottom: clamp(8.205px, 2.5640625vw, 16.41px);
+  }
+
+  .advantages__inner .advantages__card img {
+    width: clamp(65.64px, 20.5125vw, 131.28px);
+  }
+
+  .advantages__inner .advantages__card img {
+    height: clamp(65.64px, 20.5125vw, 131.28px);
+  }
+
+  .feedback__form-inner {
+    padding: clamp(41.025px, 12.8203125vw, 82.05px) clamp(13.128px, 4.1025vw, 26.256px) clamp(41.025px, 12.8203125vw, 82.05px) clamp(13.128px, 4.1025vw, 26.256px);
+  }
+
+  .feedback__form-inner img {
+    border-radius: clamp(16.41px, 5.128125vw, 32.82px);
+  }
+
+  .feedback__form-inner form {
+    padding: clamp(22.974px, 7.179375vw, 45.948px) clamp(22.974px, 7.179375vw, 45.948px) clamp(22.974px, 7.179375vw, 45.948px) clamp(22.974px, 7.179375vw, 45.948px);
+  }
+
+  .feedback__form-inner form {
+    border-radius: clamp(16.41px, 5.128125vw, 32.82px);
+  }
+
+  .feedback__form-inner form {
+    gap: clamp(16.41px, 5.128125vw, 32.82px);
+  }
+
+  .feedback__form-inner form button {
+    font-size: clamp(16.41px, 5.128125vw, 32.82px);
+  }
+
+  .feedback__form-inner form button {
+    padding: clamp(4.1025px, 1.28203125vw, 8.205px) clamp(0px, 0vw, 0px) clamp(4.1025px, 1.28203125vw, 8.205px) clamp(0px, 0vw, 0px);
+  }
+
+  .feedback__form-inner form button {
+    border-radius: clamp(47.589px, 14.8715625vw, 95.178px);
+  }
+
+  .feedback__form-inner .feedback__form-text {
+    margin-bottom: clamp(32.82px, 10.25625vw, 65.64px);
+  }
+
+  .feedback__form-inner .feedback__form-text h2 {
+    font-size: clamp(24.615px, 7.6921875vw, 49.23px);
+  }
+
+  .feedback__form-inner .feedback__form-text h2 {
+    margin-bottom: clamp(16.41px, 5.128125vw, 32.82px);
+  }
+
+  .feedback__form-inner .feedback__form-text p {
+    font-size: clamp(13.128px, 4.1025vw, 26.256px);
+  }
+
+  .tariffs__inner .section__header-row {
+    gap: clamp(24.615px, 7.6921875vw, 49.23px);
+  }
+
+  .tariffs__inner .section__header-row {
+    margin-bottom: clamp(41.025px, 12.8203125vw, 82.05px);
+  }
+
+  .tariffs__inner .tariffs__cards li article {
+    padding: clamp(16.41px, 5.128125vw, 32.82px) clamp(8.205px, 2.5640625vw, 16.41px) clamp(10.6665px, 3.33328125vw, 21.333px) clamp(8.205px, 2.5640625vw, 16.41px);
+  }
+
+  .tariffs__inner .tariffs__cards li article {
+    border-radius: clamp(16.41px, 5.128125vw, 32.82px);
+  }
+
+  .tariffs__inner .tariffs__cards li article .tariffs__card-row {
+    margin-bottom: clamp(16.41px, 5.128125vw, 32.82px);
+  }
+
+  .tariffs__inner .tariffs__cards li article .tariffs__card-row svg {
+    width: clamp(32.82px, 10.25625vw, 65.64px);
+  }
+
+  .tariffs__inner .tariffs__cards li article .tariffs__card-row svg {
+    height: clamp(32.82px, 10.25625vw, 65.64px);
+  }
+
+  .tariffs__inner .tariffs__cards li article .tariffs__card-col span:first-child {
+    font-size: clamp(21.333px, 6.6665625vw, 42.666px);
+  }
+
+  .tariffs__inner .tariffs__cards li article .tariffs__card-col span:last-child {
+    font-size: clamp(14.769px, 4.6153125vw, 29.538px);
+  }
+
+  .tariffs__inner .tariffs__cards li article button {
+    padding: clamp(6.564px, 2.05125vw, 13.128px) clamp(0px, 0vw, 0px) clamp(6.564px, 2.05125vw, 13.128px) clamp(0px, 0vw, 0px);
+  }
+
+  .tariffs__inner .tariffs__cards li article button {
+    font-size: clamp(16.41px, 5.128125vw, 32.82px);
+  }
+
+  .tariffs__inner .tariffs__white-label {
+    padding: clamp(32.82px, 10.25625vw, 65.64px) clamp(8.205px, 2.5640625vw, 16.41px) clamp(32.82px, 10.25625vw, 65.64px) clamp(8.205px, 2.5640625vw, 16.41px);
+  }
+
+  .tariffs__inner .tariffs__white-label .col h3 {
+    font-size: clamp(32.82px, 10.25625vw, 65.64px);
+  }
+
+  .tariffs__inner .tariffs__white-label .col h3 {
+    margin-bottom: clamp(16.41px, 5.128125vw, 32.82px);
+  }
+
+  .tariffs__inner .tariffs__white-label .col p {
+    font-size: clamp(16.41px, 5.128125vw, 32.82px);
+  }
+
+  .tariffs__inner .tariffs__white-label .col p {
+    margin-bottom: clamp(24.615px, 7.6921875vw, 49.23px);
+  }
+
+  .tariffs__inner .tariffs__white-label .row {
+    gap: clamp(159.9975px, 49.99921875vw, 319.995px);
+  }
+
+  .tariffs__inner .tariffs__white-label .row span {
+    font-size: clamp(24.615px, 7.6921875vw, 49.23px);
+  }
+
+  .tariffs__inner .tariffs__white-label .row button {
+    padding: clamp(6.564px, 2.05125vw, 13.128px) clamp(0px, 0vw, 0px) clamp(6.564px, 2.05125vw, 13.128px) clamp(0px, 0vw, 0px);
+  }
+
+  .tariffs__inner .tariffs__white-label .row button {
+    font-size: clamp(16.41px, 5.128125vw, 32.82px);
+  }
+
+  .tariffs__inner .tariffs__white-label svg {
+    width: clamp(160.818px, 50.255625vw, 321.636px);
+  }
+
+  .tariffs__inner .tariffs__white-label svg {
+    height: clamp(135.3825px, 42.30703125vw, 270.765px);
+  }
+
+  .faq__inner .section__header-row {
+    margin-bottom: clamp(24.615px, 7.6921875vw, 49.23px);
+  }
+
+  .faq__inner .section__header-row button {
+    font-size: clamp(19.692px, 6.15375vw, 39.384px);
+  }
+
+  .faq__inner .faq__list {
+    gap: clamp(16.41px, 5.128125vw, 32.82px);
+  }
+
+  .faq__inner .faq__list li .faq__item-question {
+    padding-left: clamp(16.41px, 5.128125vw, 32.82px);
+  }
+
+  .faq__inner .faq__list li .faq__item-question {
+    font-size: clamp(13.128px, 4.1025vw, 26.256px);
+  }
+
+  .faq__inner .faq__list li .faq__item-question svg {
+    width: clamp(49.23px, 15.384375vw, 98.46px);
+  }
+
+  .faq__inner .faq__list li .faq__item-question svg {
+    height: clamp(49.23px, 15.384375vw, 98.46px);
+  }
+
+  .faq__inner .faq__list li .faq__item-answer {
+    padding: clamp(16.41px, 5.128125vw, 32.82px) clamp(16.41px, 5.128125vw, 32.82px) clamp(16.41px, 5.128125vw, 32.82px) clamp(16.41px, 5.128125vw, 32.82px);
+  }
+
+  .faq__inner .faq__list li .faq__item-answer {
+    border-radius: clamp(16.41px, 5.128125vw, 32.82px);
+  }
+
+  .faq__inner .faq__list li .faq__item-answer {
+    font-size: clamp(13.128px, 4.1025vw, 26.256px);
+  }
+
+  .faq__inner .faq__list li .faq__item-answer {
+    margin-top: clamp(16.41px, 5.128125vw, 32.82px);
+  }
+
+  .clients__inner .clients__item {
+    height: clamp(615.375px, 192.3046875vw, 1230.75px);
+  }
+
+  .clients__inner .clients__item {
+    padding: clamp(24.615px, 7.6921875vw, 49.23px) clamp(3.282px, 1.025625vw, 6.564px) clamp(24.615px, 7.6921875vw, 49.23px) clamp(3.282px, 1.025625vw, 6.564px);
+  }
+
+  .clients__inner .clients__item-info {
+    padding: clamp(32.82px, 10.25625vw, 65.64px) clamp(16.41px, 5.128125vw, 32.82px) clamp(32.82px, 10.25625vw, 65.64px) clamp(16.41px, 5.128125vw, 32.82px);
+  }
+
+  .clients__inner .clients__item-info h3 {
+    font-size: clamp(32.82px, 10.25625vw, 65.64px);
+  }
+
+  .clients__inner .clients__item-info h3 {
+    margin-bottom: clamp(6.564px, 2.05125vw, 13.128px);
+  }
+
+  .clients__inner .clients__item-info > p {
+    font-size: clamp(14.769px, 4.6153125vw, 29.538px);
+  }
+
+  .clients__inner .clients__item-stars svg {
+    width: clamp(28.7175px, 8.97421875vw, 57.435px);
+  }
+
+  .clients__inner .clients__item-stars svg {
+    height: clamp(28.7175px, 8.97421875vw, 57.435px);
+  }
+
+  .clients__inner .clients__item-city {
+    font-size: clamp(16.41px, 5.128125vw, 32.82px);
+  }
+
+  .clients__inner .clients__item-city {
+    margin-bottom: clamp(16.41px, 5.128125vw, 32.82px);
+  }
+
+  .clients__inner .clients__item-city svg {
+    width: clamp(16.41px, 5.128125vw, 32.82px);
+  }
+
+  .clients__inner .clients__item-city svg {
+    height: clamp(16.41px, 5.128125vw, 32.82px);
+  }
+
+  .join__form-inner .join__form-text h2 {
+    font-size: clamp(24.615px, 7.6921875vw, 49.23px);
+  }
+
+  .join__form-inner .join__form-text h2 {
+    margin-bottom: clamp(8.205px, 2.5640625vw, 16.41px);
+  }
+
+  .join__form-inner .join__form-text p {
+    font-size: clamp(13.128px, 4.1025vw, 26.256px);
+  }
+
+  .join__form-inner .join__form-text p {
+    margin-bottom: clamp(24.615px, 7.6921875vw, 49.23px);
+  }
+
+  .join__form form {
+    padding: clamp(22.974px, 7.179375vw, 45.948px) clamp(22.974px, 7.179375vw, 45.948px) clamp(22.974px, 7.179375vw, 45.948px) clamp(22.974px, 7.179375vw, 45.948px);
+  }
+
+  .join__form form {
+    border-radius: clamp(16.41px, 5.128125vw, 32.82px);
+  }
+
+  .join__form form {
+    gap: clamp(16.41px, 5.128125vw, 32.82px);
+  }
+
+  .join__form form button {
+    padding: clamp(3.282px, 1.025625vw, 6.564px) clamp(0px, 0vw, 0px) clamp(3.282px, 1.025625vw, 6.564px) clamp(0px, 0vw, 0px);
+  }
+
+  .join__form form button {
+    font-size: clamp(16.41px, 5.128125vw, 32.82px);
   }
 }
