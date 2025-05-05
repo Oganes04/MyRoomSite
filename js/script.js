@@ -49,7 +49,7 @@ let clientSwiper = new Swiper(".clientSwiper", {
   spaceBetween: 30,
   grabCursor: true,
   pagination: {
-    el: ".swiper-pagination",
+    el: ".clientSwiper-pagination",
     clickable: true,
   },
 

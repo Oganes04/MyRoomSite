@@ -820,6 +820,21 @@ form button:hover {
   text-align: center;
 }
 
+.overlay {
+  display: block;
+}
+
+.thanks-popup {
+  display: block;
+  width: clamp(256.641px, 40.1041666667vw, 770px);
+}
+
+.thanks-popup > svg {
+  width: clamp(149.985px, 23.4375vw, 450px);
+  display: block;
+  margin: 0 auto;
+}
+
 .offer__inner {
   display: -webkit-box;
   display: -moz-box;
@@ -1487,6 +1502,10 @@ form button:hover {
   color: #FFFFFF;
 }
 
+.clients__inner .clientSwiper-pagination {
+  display: none;
+}
+
 .clients__item.open {
   width: clamp(356.4px, 28.125vw, 540px) !important;
 }
@@ -2079,6 +2098,14 @@ form button:hover {
 
   .popup .popup_close svg {
     margin-top: clamp(24.615px, 7.6921875vw, 49.23px);
+  }
+
+  .thanks-popup {
+    width: clamp(631.785px, 197.4328125vw, 1263.57px);
+  }
+
+  .thanks-popup > svg {
+    width: clamp(369.225px, 115.3828125vw, 738.45px);
   }
 
   .offer__inner > img {
@@ -2743,7 +2770,7 @@ form button:hover {
   }
 
   input:not([type=checkbox]) {
-    padding: clamp(1.3332px, 0.2083333333vw, 4px) clamp(9.999px, 1.5625vw, 30px) clamp(1.3332px, 0.2083333333vw, 4px) clamp(9.999px, 1.5625vw, 30px);
+    padding: clamp(2.6664px, 0.4166666667vw, 8px) clamp(9.999px, 1.5625vw, 30px) clamp(1.3332px, 0.2083333333vw, 4px) clamp(9.999px, 1.5625vw, 30px);
     border-radius: clamp(8.3325px, 1.3020833333vw, 25px);
     font-size: clamp(5.3328px, 0.8333333333vw, 16px);
   }
@@ -3040,6 +3067,8 @@ form button:hover {
 
   .faq__inner .section__header-row button {
     font-size: clamp(7.9992px, 1.25vw, 24px);
+    padding: clamp(2.6664px, 0.4166666667vw, 8px) clamp(9.999px, 1.5625vw, 30px) clamp(2.6664px, 0.4166666667vw, 8px) clamp(9.999px, 1.5625vw, 30px);
+    font-size: clamp(6.666px, 1.0416666667vw, 20px);
   }
 
   .faq__inner .faq__list {
@@ -3064,8 +3093,16 @@ form button:hover {
     margin-top: clamp(6.666px, 1.0416666667vw, 20px);
   }
 
+  .faq__inner .faq__list li .faq__item-question:has(svg.rotate-faq) {
+    font-weight: normal;
+  }
+
+  .clients__inner h2.section__header {
+    margin-bottom: clamp(9.999px, 1.5625vw, 30px);
+  }
+
   .clients__inner .clients__item {
-    height: clamp(249.975px, 39.0625vw, 750px);
+    height: clamp(199.98px, 31.25vw, 600px);
     padding: clamp(9.999px, 1.5625vw, 30px) clamp(1.3332px, 0.2083333333vw, 4px) clamp(9.999px, 1.5625vw, 30px) clamp(1.3332px, 0.2083333333vw, 4px);
   }
 
@@ -3075,10 +3112,12 @@ form button:hover {
 
   .clients__inner .clients__item > img {
     object-fit: cover;
+    border-radius: clamp(6.666px, 1.0416666667vw, 20px);
   }
 
   .clients__inner .clients__item-info {
     padding: clamp(13.332px, 2.0833333333vw, 40px) clamp(6.666px, 1.0416666667vw, 20px) clamp(13.332px, 2.0833333333vw, 40px) clamp(6.666px, 1.0416666667vw, 20px);
+    border-radius: clamp(6.666px, 1.0416666667vw, 20px);
   }
 
   .clients__inner .clients__item-info h3 {
@@ -3103,6 +3142,34 @@ form button:hover {
   .clients__inner .clients__item-city svg {
     width: clamp(6.666px, 1.0416666667vw, 20px);
     height: clamp(6.666px, 1.0416666667vw, 20px);
+  }
+
+  .clients__inner .clientSwiper-pagination {
+    display: block;
+    position: relative;
+    margin-top: clamp(3.333px, 0.5208333333vw, 10px);
+    text-align: center;
+  }
+
+  .clients__inner .clientSwiper-pagination .swiper-pagination-bullet {
+    width: 6px;
+    height: 6px;
+    background-color: #D9D9D9;
+    -webkit-transition: all 0.3s ease 0s;
+    -moz-transition: all 0.3s ease 0s;
+    -ms-transition: all 0.3s ease 0s;
+    -o-transition: all 0.3s ease 0s;
+    transition: all 0.3s ease 0s;
+  }
+
+  .clients__inner .clientSwiper-pagination .swiper-pagination-bullet-active {
+    background-color: #232323;
+    width: 28px;
+    border-radius: 35px;
+  }
+
+  .join__form {
+    margin-bottom: clamp(26.664px, 4.1666666667vw, 80px);
   }
 
   .join__form-inner {
@@ -3142,6 +3209,7 @@ form button:hover {
   .about__page .about__main-inner img {
     width: 100%;
     height: auto;
+    object-fit: cover;
   }
 
   .about__page .about__main-inner .marquee span {
@@ -3341,6 +3409,10 @@ form button:hover {
   .article__inner .article__content p {
     font-size: clamp(5.3328px, 0.8333333333vw, 16px);
     line-height: clamp(7.9992px, 1.25vw, 24px);
+  }
+
+  .feedback__form-inner .feedback__form-text p:has(a) {
+    font-size: clamp(5.3328px, 0.8333333333vw, 16px);
   }
 
   .footer__inner {
@@ -3561,6 +3633,7 @@ form button:hover {
   .popup form {
     padding: 0;
     width: 100%;
+    gap: clamp(6.666px, 1.0416666667vw, 20px);
   }
 
   .popup form button {
@@ -3611,7 +3684,7 @@ form button:hover {
   }
 
   input:not([type=checkbox]) {
-    padding: clamp(3.282px, 1.025625vw, 6.564px) clamp(24.615px, 7.6921875vw, 49.23px) clamp(3.282px, 1.025625vw, 6.564px) clamp(24.615px, 7.6921875vw, 49.23px);
+    padding: clamp(6.564px, 2.05125vw, 13.128px) clamp(24.615px, 7.6921875vw, 49.23px) clamp(3.282px, 1.025625vw, 6.564px) clamp(24.615px, 7.6921875vw, 49.23px);
   }
 
   input:not([type=checkbox]) {
@@ -3922,6 +3995,14 @@ form button:hover {
     font-size: clamp(19.692px, 6.15375vw, 39.384px);
   }
 
+  .faq__inner .section__header-row button {
+    padding: clamp(6.564px, 2.05125vw, 13.128px) clamp(24.615px, 7.6921875vw, 49.23px) clamp(6.564px, 2.05125vw, 13.128px) clamp(24.615px, 7.6921875vw, 49.23px);
+  }
+
+  .faq__inner .section__header-row button {
+    font-size: clamp(16.41px, 5.128125vw, 32.82px);
+  }
+
   .faq__inner .faq__list {
     gap: clamp(16.41px, 5.128125vw, 32.82px);
   }
@@ -3958,16 +4039,28 @@ form button:hover {
     margin-top: clamp(16.41px, 5.128125vw, 32.82px);
   }
 
+  .clients__inner h2.section__header {
+    margin-bottom: clamp(24.615px, 7.6921875vw, 49.23px);
+  }
+
   .clients__inner .clients__item {
-    height: clamp(615.375px, 192.3046875vw, 1230.75px);
+    height: clamp(492.3px, 153.84375vw, 984.6px);
   }
 
   .clients__inner .clients__item {
     padding: clamp(24.615px, 7.6921875vw, 49.23px) clamp(3.282px, 1.025625vw, 6.564px) clamp(24.615px, 7.6921875vw, 49.23px) clamp(3.282px, 1.025625vw, 6.564px);
   }
 
+  .clients__inner .clients__item > img {
+    border-radius: clamp(16.41px, 5.128125vw, 32.82px);
+  }
+
   .clients__inner .clients__item-info {
     padding: clamp(32.82px, 10.25625vw, 65.64px) clamp(16.41px, 5.128125vw, 32.82px) clamp(32.82px, 10.25625vw, 65.64px) clamp(16.41px, 5.128125vw, 32.82px);
+  }
+
+  .clients__inner .clients__item-info {
+    border-radius: clamp(16.41px, 5.128125vw, 32.82px);
   }
 
   .clients__inner .clients__item-info h3 {
@@ -4004,6 +4097,14 @@ form button:hover {
 
   .clients__inner .clients__item-city svg {
     height: clamp(16.41px, 5.128125vw, 32.82px);
+  }
+
+  .clients__inner .clientSwiper-pagination {
+    margin-top: clamp(8.205px, 2.5640625vw, 16.41px);
+  }
+
+  .join__form {
+    margin-bottom: clamp(65.64px, 20.5125vw, 131.28px);
   }
 
   .join__form-inner .join__form-text h2 {
@@ -4250,6 +4351,10 @@ form button:hover {
     line-height: clamp(19.692px, 6.15375vw, 39.384px);
   }
 
+  .feedback__form-inner .feedback__form-text p:has(a) {
+    font-size: clamp(13.128px, 4.1025vw, 26.256px);
+  }
+
   .footer__inner {
     gap: clamp(24.615px, 7.6921875vw, 49.23px);
   }
@@ -4382,6 +4487,10 @@ form button:hover {
 
   .popup h2 {
     margin-bottom: clamp(16.41px, 5.128125vw, 32.82px);
+  }
+
+  .popup form {
+    gap: clamp(16.41px, 5.128125vw, 32.82px);
   }
 
   .popup form button {
