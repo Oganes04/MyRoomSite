@@ -616,6 +616,10 @@ form button:hover {
   display: none;
 }
 
+.header__adaptive {
+  display: none;
+}
+
 .footer {
   background-color: #232323;
   color: #FFFFFF;
@@ -3450,6 +3454,7 @@ form button:hover {
   }
 
   .header__adaptive {
+    display: block;
     position: relative;
     transform: translate(100vw, 0);
     -moz-transform: translate(100vw, 0);
