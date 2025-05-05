@@ -169,6 +169,20 @@ $(function() {
 
 
 
+//=================== Burger меню ============
+
+$(".burger__menu").click(function() {
+  $(this).toggleClass('open');
+  $('html').toggleClass('hidden');
+
+  if ($(this).hasClass('open')) {
+    lenis.stop();
+  } else {
+      lenis.start();
+  }
+});
+
+
 
 
 
