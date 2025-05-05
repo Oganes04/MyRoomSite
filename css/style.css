@@ -820,12 +820,7 @@ form button:hover {
   text-align: center;
 }
 
-.overlay {
-  display: block;
-}
-
 .thanks-popup {
-  display: block;
   width: clamp(256.641px, 40.1041666667vw, 770px);
 }
 
